@@ -10,7 +10,7 @@ This question appears across multiple domains with surprising consistency. Citie
 
 ## The Persistence Paradox
 
-Consider this: the most stable systems are often those that change most readily. 
+Consider this: the most stable systems are often those that change most readily.
 
 A river maintains its course by constantly adjusting to new conditions. Remove its ability to adapt—channel it between concrete walls—and it becomes brittle, destructive when overwhelmed.
 
@@ -19,12 +19,15 @@ The same pattern emerges in [[Conceptual Frameworks]]. Those that remain useful 
 ## Recognition Across Scales
 
 ### Biological Systems
-Immune responses, genetic variation, cellular repair mechanisms—all operate on the principle of *conservative adaptation*. Change what must change, preserve what works.
+
+Immune responses, genetic variation, cellular repair mechanisms—all operate on the principle of _conservative adaptation_. Change what must change, preserve what works.
 
 ### Technical Systems
+
 Protocols that last decades share a characteristic: they define just enough structure to enable coordination while leaving room for unforeseen innovation. See [[Protocol Evolution]] for specific examples.
 
 ### Cognitive Systems
+
 The most powerful [[Learning Methodologies]] follow similar patterns: establish stable foundations, then explore variations within that structure.
 
 ## Design Implications
@@ -32,7 +35,7 @@ The most powerful [[Learning Methodologies]] follow similar patterns: establish 
 If adaptation follows discoverable patterns, we can build systems that anticipate their own need to change:
 
 - **Modular architectures** that allow local modification without global disruption
-- **Feedback mechanisms** that detect drift before it becomes crisis  
+- **Feedback mechanisms** that detect drift before it becomes crisis
 - **Redundant pathways** that provide alternatives when primary routes fail
 - **Version spaces** that maintain multiple approaches simultaneously
 
@@ -44,7 +47,7 @@ Is there a mathematical relationship between system complexity and adaptive capa
 
 ---
 
-*Adaptation is not about becoming something else; it's about becoming more yourself under changing conditions.*
+_Adaptation is not about becoming something else; it's about becoming more yourself under changing conditions._
 
 ## Connected Investigations
 
