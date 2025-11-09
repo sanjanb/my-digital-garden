@@ -5,15 +5,22 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Welcome to My Digital Garden! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  Hi there! I'm <strong>Sanjan</strong>, and this is my personal knowledge garden. Start your exploration with <span style="font-weight: bold">[[Your first note]]</span> or browse through my recent thoughts below.
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+This is my space for **connecting ideas**, **documenting learnings**, and **sharing insights**. Unlike a traditional blog, this garden grows organically - ideas link to each other, creating a web of interconnected knowledge.
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+## 🎯 What's Growing Here
+
+- **Learning notes** from books, courses, and experiences
+- **Project documentation** and technical insights  
+- **Personal reflections** and growth observations
+- **Random discoveries** that spark curiosity
+
+Feel free to wander around, follow the links, and discover unexpected connections!
 
 <strong>Recently updated notes</strong>
 
