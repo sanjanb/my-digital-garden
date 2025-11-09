@@ -11,14 +11,17 @@ Programming forces precision in ways that other forms of expression do not. A co
 ## Fundamental Tensions
 
 ### Abstraction vs. Performance
+
 Every abstraction introduces overhead, yet abstractions are essential for managing complexity. The art lies in choosing which abstractions pay for themselves.
 
 Consider [[Adaptive Patterns]] in language design: languages that survive do so by finding the right balance between expressiveness and efficiency.
 
 ### Flexibility vs. Safety
+
 Type systems constrain what programs can express, but these constraints often reveal design errors before they become runtime failures. See [[The Paradox of Boundaries]] for how limitations can enhance rather than reduce capability.
 
 ### Composition vs. Simplicity
+
 Complex behaviors can emerge from simple components, but the interfaces between components often become the source of the deepest problems.
 
 ## Pattern Recognition Across Scales
@@ -26,12 +29,15 @@ Complex behaviors can emerge from simple components, but the interfaces between 
 Certain architectural principles appear regardless of implementation details:
 
 ### Separation of Concerns
+
 Whether organizing functions, modules, or microservices, the same principle applies: distinct responsibilities should have minimal coupling. This pattern echoes the modularity found in [[Adaptive Patterns]].
 
 ### Information Hiding
+
 The decision of what to expose and what to conceal in an interface parallels similar choices in other design disciplines. What you choose **not** to expose often matters more than what you do expose.
 
 ### Immutability as Default
+
 Systems become easier to reason about when change is explicit and controlled. This principle extends beyond programming to organizational design and personal knowledge management.
 
 ## Tools Shaping Thought
@@ -39,7 +45,7 @@ Systems become easier to reason about when change is explicit and controlled. Th
 Different programming languages encourage different ways of thinking about problems:
 
 - **Functional languages** promote thinking in terms of data transformations
-- **Object-oriented languages** encourage modeling in terms of entities and relationships  
+- **Object-oriented languages** encourage modeling in terms of entities and relationships
 - **Systems languages** force awareness of resource constraints and performance implications
 - **Domain-specific languages** embed problem-domain knowledge directly into syntax
 
@@ -70,7 +76,7 @@ How do the constraints of different programming environments shape the kinds of 
 
 ---
 
-*"Programs must be written for people to read, and only incidentally for machines to execute."* — Harold Abelson
+_"Programs must be written for people to read, and only incidentally for machines to execute."_ — Harold Abelson
 
 ## Connected Territories
 

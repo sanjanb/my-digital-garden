@@ -10,14 +10,11 @@ I am someone who thinks by writing, learns by connecting, and understands throug
 
 This archive exists because certain ideas refuse to stay contained within traditional boundaries. What you find here represents an ongoing attempt to map the territories where different fields of knowledge meet and influence each other.
 
-- 📚 **Document my learning journey** across various topics
-- 🔗 **Connect ideas** and explore how they relate to each other
-- 🌱 **Grow my knowledge** through writing and reflection
-- 💡 **Share insights** that might be useful to others
+## The Practice
 
-## What you'll find here
+My approach involves collecting fragments from various domains—technical systems, philosophical frameworks, creative methodologies, behavioral patterns—and examining how they inform one another. 
 
-This garden contains my notes on:
+The result is neither purely technical documentation nor abstract theory, but something that exists in the spaces between established categories.
 
 - Technology and programming
 - Books and articles I'm reading

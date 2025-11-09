@@ -43,15 +43,19 @@ This invisibility is both their strength and their weakness:
 How do you excavate your own conceptual frameworks? Some approaches:
 
 ### Cross-Domain Comparison
+
 Study how different fields approach similar problems. The variations often reveal assumptions that seemed universal within a single domain.
 
 ### Historical Analysis
+
 Examine how current frameworks evolved from earlier versions. What changed and why? What remained constant across transitions?
 
 ### Edge Case Investigation
+
 Focus on phenomena that don't fit existing frameworks cleanly. These anomalies often signal the boundaries of current models.
 
 ### Deliberate Perspective Shifting
+
 Temporarily adopt frameworks from unfamiliar domains. See [[The Paradox of Boundaries]] for how constraints from other fields can reveal new possibilities.
 
 ## Construction Principles
@@ -59,15 +63,19 @@ Temporarily adopt frameworks from unfamiliar domains. See [[The Paradox of Bound
 If we're building frameworks deliberately rather than inheriting them unconsciously, what design principles apply?
 
 ### Modularity
+
 Frameworks composed of independent components can adapt more readily than monolithic structures. When one module proves inadequate, it can be replaced without rebuilding the entire system.
 
 ### Explicit Assumptions
+
 Making foundational assumptions visible enables conscious modification when conditions change.
 
 ### Productive Constraints
+
 Like [[Adaptive Patterns]] in other systems, the most useful frameworks constrain thinking in ways that enhance rather than limit insight.
 
 ### Recursive Application
+
 The most powerful frameworks can be applied to themselves. A framework for understanding frameworks should illuminate its own construction and limitations.
 
 ## Meta-Framework Questions
@@ -80,11 +88,11 @@ Can frameworks be designed to actively resist the invisibility effect—to maint
 
 ---
 
-*"The map is not the territory, but we cannot navigate without maps."*
+_"The map is not the territory, but we cannot navigate without maps."_
 
 ## Related Investigations
 
 - [[Adaptive Patterns]] — How frameworks change while maintaining coherence
-- [[Conceptual Migration]] — Framework transfer between domains  
+- [[Conceptual Migration]] — Framework transfer between domains
 - [[The Paradox of Boundaries]] — How constraints shape conceptual possibilities
 - [[Programming concepts]] — Technical frameworks for organizing complexity

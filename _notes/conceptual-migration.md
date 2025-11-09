@@ -17,13 +17,15 @@ The concept survived because its essential pattern was abstract enough to apply 
 ## Successful Migrations
 
 ### From Biology to Computing
+
 - Neural networks (brain structure → computational models)
-- Genetic algorithms (evolution → optimization techniques) 
+- Genetic algorithms (evolution → optimization techniques)
 - Swarm intelligence (collective behavior → distributed systems)
 
 Each transfer required identifying which aspects of the biological phenomenon were essential and which were merely incidental to the original context.
 
 ### From Physics to Social Science
+
 - Network effects (field theory → social dynamics)
 - Phase transitions (matter states → organizational change)
 - Equilibrium systems (mechanical balance → market dynamics)
@@ -41,7 +43,7 @@ Military strategy metaphors in business often fail because businesses operate un
 Successful conceptual migration appears to follow identifiable stages:
 
 1. **Recognition** — Noticing structural similarities between domains
-2. **Abstraction** — Identifying the transferable pattern beneath surface differences  
+2. **Abstraction** — Identifying the transferable pattern beneath surface differences
 3. **Translation** — Mapping abstract pattern onto new concrete context
 4. **Testing** — Discovering which aspects of the concept work in the new environment
 5. **Refinement** — Modifying the concept based on feedback from its new context
@@ -76,7 +78,7 @@ How do conceptual migrations change the **donor** domain? Does the act of articu
 
 ---
 
-*"All thinking is metaphorical."* — Gregory Bateson
+_"All thinking is metaphorical."_ — Gregory Bateson
 
 ## Connected Explorations
 

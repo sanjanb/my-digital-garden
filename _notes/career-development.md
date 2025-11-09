@@ -13,15 +13,19 @@ The traditional model of linear career progression assumes stable conditions tha
 Rather than optimizing for specific roles, the focus shifts to developing **portable capabilities** that remain valuable across contexts:
 
 ### Technical Fluency
+
 Not mastery of specific tools, but understanding the principles that make tools effective. See [[Programming concepts]] for examples of concepts that transcend particular technologies.
 
-### Pattern Recognition  
+### Pattern Recognition
+
 The ability to identify recurring structures across different domains. This skill becomes more valuable as complexity increases and domains cross-pollinate.
 
 ### Communication Across Contexts
+
 Translating insights between technical and non-technical audiences, between abstract and concrete thinking, between different organizational cultures.
 
 ### Systems Thinking
+
 Understanding how components interact to produce emergent behaviors. This applies whether you're debugging code, optimizing processes, or navigating organizational dynamics.
 
 ## The Adaptation Paradox
@@ -29,8 +33,9 @@ Understanding how components interact to produce emergent behaviors. This applie
 The most stable careers are often those that change most readily in response to new conditions. Like [[Adaptive Patterns]] in other systems, professional resilience comes from maintaining core identity while continuously evolving capabilities.
 
 This requires distinguishing between:
+
 - **Core competencies** that define your professional identity
-- **Contextual skills** that enable you to operate in current environments  
+- **Contextual skills** that enable you to operate in current environments
 - **Emerging capabilities** that position you for future opportunities
 
 ## Learning as Meta-Skill
@@ -40,8 +45,9 @@ The half-life of specific technical knowledge continues to shrink, making the ab
 Effective professional learning follows patterns similar to those found in [[Conceptual Migration]]—identifying transferable principles, adapting them to new contexts, and testing their effectiveness systematically.
 
 ### Deliberate Practice in Professional Context
+
 - Seeking feedback loops that reveal actual rather than assumed performance
-- Practicing skills just beyond current comfort level  
+- Practicing skills just beyond current comfort level
 - Focusing on fundamental principles rather than surface-level techniques
 - Building mental models that apply across situations
 
@@ -56,6 +62,7 @@ The most powerful networks are those that span different domains, providing acce
 Choosing the right limitations can accelerate growth more effectively than unlimited optionality. See [[The Paradox of Boundaries]] for how constraints enable rather than restrict development.
 
 Professional constraints might include:
+
 - Focusing on depth in specific technical areas
 - Committing to particular types of problems
 - Working within specific organizational contexts
@@ -77,10 +84,10 @@ Is there an optimal balance between specialization and generalization? How does 
 
 ---
 
-*"The future belongs to those who learn more skills and combine them in creative ways."* — Robert Greene
+_"The future belongs to those who learn more skills and combine them in creative ways."_ — Robert Greene
 
 ## Connected Explorations
 
 - [[Programming concepts]] — Technical foundation for career development
-- [[Adaptive Patterns]] — How systems maintain coherence while evolving  
+- [[Adaptive Patterns]] — How systems maintain coherence while evolving
 - [[Conceptual Migration]] — Transferring insights between professional domains
