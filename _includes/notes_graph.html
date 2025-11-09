@@ -13,7 +13,8 @@
   .text text {
     cursor: pointer;
     fill: #333;
-    text-shadow: -1px -1px 0 #fafafabb, 1px -1px 0 #fafafabb, -1px 1px 0 #fafafabb, 1px 1px 0 #fafafabb;
+    text-shadow: -1px -1px 0 #fafafabb, 1px -1px 0 #fafafabb,
+      -1px 1px 0 #fafafabb, 1px 1px 0 #fafafabb;
   }
 
   .nodes [active],
@@ -34,7 +35,7 @@
     min-height: 400px;
     width: 100%;
   }
-  
+
   #graph-wrapper > svg {
     max-width: 100%;
     display: block;
@@ -51,7 +52,7 @@
         initializeGraph();
         return;
       }
-      
+
       var oScript = document.createElement("script");
       oScript.src = "https://cdnjs.cloudflare.com/ajax/libs/d3/5.16.0/d3.min.js";
       oScript.crossOrigin = 'anonymous';
@@ -66,7 +67,7 @@
         console.error('Failed to load D3 library');
       };
     }
-    
+
     function initializeGraph() {
         const MINIMAL_NODE_SIZE = 8;
         const MAX_NODE_SIZE = 12;
@@ -79,10 +80,10 @@
 
         const graphData = {% include notes_graph.json %}
         console.log('Graph data loaded:', graphData);
-        
+
         let nodesData = graphData.nodes;
         let linksData = graphData.edges;
-        
+
         console.log('Nodes:', nodesData.length, 'Edges:', linksData.length);
 
         const nodeSize = {};
@@ -196,11 +197,11 @@
           console.error('Graph wrapper element not found');
           return;
         }
-        
+
         const element = document.createElementNS("http://www.w3.org/2000/svg", "svg");
         const wrapperWidth = graphWrapper.getBoundingClientRect().width || 800;
         const wrapperHeight = 400;
-        
+
         element.setAttribute("width", wrapperWidth);
         element.setAttribute("height", wrapperHeight);
         graphWrapper.appendChild(element);
