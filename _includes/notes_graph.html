@@ -30,7 +30,9 @@
   #graph-wrapper {
     background: #fcfcfc;
     border-radius: 4px;
-    height: auto;
+    height: 400px;
+    min-height: 400px;
+    width: 100%;
   }
   
   #graph-wrapper > svg {
@@ -44,6 +46,12 @@
     window.addEventListener("load", loadGraph);
 
     function loadGraph() {
+      // Check if D3 is already loaded
+      if (window.d3) {
+        initializeGraph();
+        return;
+      }
+      
       var oScript = document.createElement("script");
       oScript.src = "https://cdnjs.cloudflare.com/ajax/libs/d3/5.16.0/d3.min.js";
       oScript.crossOrigin = 'anonymous';
@@ -51,6 +59,15 @@
         "sha512-FHsFVKQ/T1KWJDGSbrUhTJyS1ph3eRrxI228ND0EGaEp6v4a/vGwPWd3Dtd/+9cI7ccofZvl/wulICEurHN1pg==";
       document.body.appendChild(oScript);
       oScript.onload = () => {
+        console.log('D3 library loaded successfully');
+        initializeGraph();
+      };
+      oScript.onerror = () => {
+        console.error('Failed to load D3 library');
+      };
+    }
+    
+    function initializeGraph() {
         const MINIMAL_NODE_SIZE = 8;
         const MAX_NODE_SIZE = 12;
         const ACTIVE_RADIUS_FACTOR = 1.5;
@@ -61,8 +78,12 @@
         const MAX_LABEL_LENGTH = 50;
 
         const graphData = {% include notes_graph.json %}
+        console.log('Graph data loaded:', graphData);
+        
         let nodesData = graphData.nodes;
         let linksData = graphData.edges;
+        
+        console.log('Nodes:', nodesData.length, 'Edges:', linksData.length);
 
         const nodeSize = {};
 
@@ -171,10 +192,20 @@
         };
 
         const graphWrapper = document.getElementById('graph-wrapper')
+        if (!graphWrapper) {
+          console.error('Graph wrapper element not found');
+          return;
+        }
+        
         const element = document.createElementNS("http://www.w3.org/2000/svg", "svg");
-        element.setAttribute("width", graphWrapper.getBoundingClientRect().width);
-        element.setAttribute("height", window.innerHeight * 0.8);
+        const wrapperWidth = graphWrapper.getBoundingClientRect().width || 800;
+        const wrapperHeight = 400;
+        
+        element.setAttribute("width", wrapperWidth);
+        element.setAttribute("height", wrapperHeight);
         graphWrapper.appendChild(element);
+
+        console.log('Graph element created:', { width: wrapperWidth, height: wrapperHeight });
 
         const reportWindowSize = () => {
           element.setAttribute("width", window.innerWidth);
@@ -305,7 +336,6 @@
           if (str.length <= maxLen) return str;
           return str.substr(0, str.lastIndexOf(separator, maxLen)) + '...';
         }
-      }
-    }
+    } // end of initializeGraph function
   </script>
 </div>
