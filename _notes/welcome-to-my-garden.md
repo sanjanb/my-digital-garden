@@ -22,26 +22,30 @@ This collection operates on the principle that understanding emerges through rel
 Several lines of investigation are currently active:
 
 ### Systems and Emergence
+
 How do simple rules generate complex behaviors? What can we learn from studying [[Adaptive Patterns]] across different scales of organization?
 
-### The Architecture of Understanding  
+### The Architecture of Understanding
+
 Why do some [[Conceptual Frameworks]] prove more durable than others? How do we build knowledge structures that remain flexible while maintaining coherence?
 
 ### Constraints as Creative Forces
+
 In what ways do limitations actually expand the space of possibilities? See [[The Paradox of Boundaries]] for initial explorations.
 
 ### Translation Across Domains
+
 How do insights move between fields? What gets lost and what gets gained in the process of [[Conceptual Migration]]?
 
 ## Navigation Notes
 
-The connections here are intentional but not always obvious. Some links lead to fully developed thoughts; others point toward territories that remain largely unexplored. 
+The connections here are intentional but not always obvious. Some links lead to fully developed thoughts; others point toward territories that remain largely unexplored.
 
 Both serve a purpose.
 
 ---
 
-*"We shape our tools, and thereafter they shape us."* — Marshall McLuhan
+_"We shape our tools, and thereafter they shape us."_ — Marshall McLuhan
 
 ## Recent Traces
 
