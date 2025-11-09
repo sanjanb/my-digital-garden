@@ -8,7 +8,7 @@ permalink: /
 # Welcome to My Digital Garden! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Hi there! I'm <strong>Sanjan</strong>, and this is my personal knowledge garden. Start your exploration with <span style="font-weight: bold">[[Your first note]]</span> or browse through my recent thoughts below.
+  Hi there! I'm <strong>Sanjan</strong>, and this is my personal knowledge garden. Start your exploration with <span style="font-weight: bold">[[Welcome to My Garden]]</span> or browse through my recent thoughts below.
 </p>
 
 This is my space for **connecting ideas**, **documenting learnings**, and **sharing insights**. Unlike a traditional blog, this garden grows organically - ideas link to each other, creating a web of interconnected knowledge.
