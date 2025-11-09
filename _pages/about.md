@@ -12,7 +12,7 @@ This archive exists because certain ideas refuse to stay contained within tradit
 
 ## The Practice
 
-My approach involves collecting fragments from various domains—technical systems, philosophical frameworks, creative methodologies, behavioral patterns—and examining how they inform one another. 
+My approach involves collecting fragments from various domains—technical systems, philosophical frameworks, creative methodologies, behavioral patterns—and examining how they inform one another.
 
 The result is neither purely technical documentation nor abstract theory, but something that exists in the spaces between established categories.
 
