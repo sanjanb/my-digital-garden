@@ -17,6 +17,7 @@ The limitation becomes a **discovery mechanism**.
 ## Technical Manifestations
 
 ### Programming Language Design
+
 Languages that seem more "restrictive" often enable greater expressiveness:
 
 - Static typing catches errors but also suggests correct implementations
@@ -26,6 +27,7 @@ Languages that seem more "restrictive" often enable greater expressiveness:
 See [[Protocol Evolution]] for examples of how constraints enable rather than prevent innovation.
 
 ### Architectural Patterns
+
 Building codes and engineering standards don't just prevent failures—they establish a shared vocabulary that enables complex collaboration. The constraint becomes the foundation for emergent capability.
 
 ## Cognitive Dimensions
@@ -63,7 +65,7 @@ See [[Adaptive Patterns]] for examples of systems that use constraints as adapta
 
 ---
 
-*"The freedom of verse does not consist in the absence of metre, but in the freedom to move between metres."* — T.S. Eliot
+_"The freedom of verse does not consist in the absence of metre, but in the freedom to move between metres."_ — T.S. Eliot
 
 ## Related Investigations
 
