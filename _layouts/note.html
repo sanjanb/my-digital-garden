@@ -5,15 +5,25 @@ layout: default
 <article>
   <div>
     <h1>{{ page.title }}</h1>
-    <div style="display: flex; justify-content: space-between; align-items: center; margin: 1em 0; font-size: 0.85em; color: #666;">
-        <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
-          Last updated {{ page.last_modified_at | date: "%B %-d, %Y" }}
-        {% endif %}</time>
-        <span>
-          {% assign words = content | strip_html | number_of_words %}
-          {% assign reading_time = words | divided_by: 200 | plus: 1 %}
-          {{ reading_time }} min read • {{ words }} words
-        </span>
+    <div
+      style="
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 1em 0;
+        font-size: 0.85em;
+        color: #666;
+      "
+    >
+      <time datetime="{{ page.last_modified_at | date_to_xmlschema }}"
+        >{% if page.type != 'pages' %} Last updated {{ page.last_modified_at |
+        date: "%B %-d, %Y" }} {% endif %}</time
+      >
+      <span>
+        {% assign words = content | strip_html | number_of_words %} {% assign
+        reading_time = words | divided_by: 200 | plus: 1 %} {{ reading_time }}
+        min read • {{ words }} words
+      </span>
     </div>
   </div>
 
@@ -26,34 +36,68 @@ layout: default
     <side style="font-size: 0.9em">
       <h3 style="margin-bottom: 1em">Connected Thoughts</h3>
       {% if page.backlinks.size > 0 %}
-      <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
-      {% for backlink in page.backlinks %}
-        <div class="backlink-box" style="padding: 1em; background: #f8f9fa; border-left: 3px solid #dee2e6; border-radius: 3px;">
-        <a class="internal-link" href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}" style="font-weight: 500;">{{ backlink.title }}</a>
-        <div style="font-size: 0.85em; margin-top: 0.5em; color: #666; line-height: 1.4;">
-          "{{ backlink.excerpt | strip_html | truncatewords: 25 }}"
+      <div
+        style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr)"
+      >
+        {% for backlink in page.backlinks %}
+        <div
+          class="backlink-box"
+          style="
+            padding: 1em;
+            background: #f8f9fa;
+            border-left: 3px solid #dee2e6;
+            border-radius: 3px;
+          "
+        >
+          <a
+            class="internal-link"
+            href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}"
+            style="font-weight: 500"
+            >{{ backlink.title }}</a
+          >
+          <div
+            style="
+              font-size: 0.85em;
+              margin-top: 0.5em;
+              color: #666;
+              line-height: 1.4;
+            "
+          >
+            "{{ backlink.excerpt | strip_html | truncatewords: 25 }}"
+          </div>
         </div>
-        </div>
-      {% endfor %}
+        {% endfor %}
       </div>
       {% else %}
-      <div style="font-size: 0.9em; padding: 1em; background: #f8f9fa; border-radius: 3px; text-align: center; color: #666;">
+      <div
+        style="
+          font-size: 0.9em;
+          padding: 1em;
+          background: #f8f9fa;
+          border-radius: 3px;
+          text-align: center;
+          color: #666;
+        "
+      >
         <p>This thought exists in isolation—for now.</p>
-        <p style="font-style: italic;">Perhaps it's waiting for the right connection to emerge.</p>
+        <p style="font-style: italic">
+          Perhaps it's waiting for the right connection to emerge.
+        </p>
       </div>
       {% endif %}
     </side>
   </div>
 </article>
 
-<hr>
+<hr />
 
-<div style="margin: 2em 0;">
-<h3 style="margin-bottom: 1em;">Conceptual Network</h3>
-<p style="color: #666; margin-bottom: 1em;">
-Each node represents a thought; each connection reveals how ideas influence one another. 
-Node size reflects connection density. Click to navigate, hover to explore.
-</p>
+<div style="margin: 2em 0">
+  <h3 style="margin-bottom: 1em">Conceptual Network</h3>
+  <p style="color: #666; margin-bottom: 1em">
+    Each node represents a thought; each connection reveals how ideas influence
+    one another. Node size reflects connection density. Click to navigate, hover
+    to explore.
+  </p>
 
-{% include notes_graph.html %}
+  {% include notes_graph.html %}
 </div>

@@ -8,7 +8,7 @@ Active lines of inquiry that are currently evolving. These thoughts remain delib
 
 ## The Question of Scale
 
-How do patterns that emerge at one scale influence behavior at others? 
+How do patterns that emerge at one scale influence behavior at others?
 
 Initial observations suggest that certain organizational principles appear consistently across biological systems, technical architectures, and cognitive processes. See [[Adaptive Patterns]] for early findings.
 
@@ -54,7 +54,7 @@ The constraint of executable precision forces conceptual clarity in ways that na
 
 ---
 
-*These investigations influence each other in ways that often become apparent only in retrospect.*
+_These investigations influence each other in ways that often become apparent only in retrospect._
 
 ## Related Territories
 

@@ -32,9 +32,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
 # Redirecting to a random note...
 
-*If you're reading this, JavaScript might be disabled. Here are some starting points:*
+_If you're reading this, JavaScript might be disabled. Here are some starting points:_
 
 - [[The Threshold]] — Entry point for new visitors
-- [[Adaptive Patterns]] — Cross-domain principles  
+- [[Adaptive Patterns]] — Cross-domain principles
 - [[The Paradox of Boundaries]] — Constraints as creative forces
 - [[Conceptual Migration]] — Ideas moving between fields
