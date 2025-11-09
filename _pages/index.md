@@ -5,24 +5,17 @@ id: home
 permalink: /
 ---
 
-# Welcome to My Digital Garden! 🌱
+# The Archive
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Hi there! I'm <strong>Sanjan</strong>, and this is my personal knowledge garden. Start your exploration with <span style="font-weight: bold">[[Welcome to My Garden]]</span> or browse through my recent thoughts below.
+<p style="padding: 2em 1.5em; background: #f8f9fa; border-left: 3px solid #dee2e6; font-style: italic;">
+  "The mind, once expanded by a new idea, never returns to its original dimensions." — Begin with <span style="font-weight: bold">[[The Threshold]]</span> or follow the recent traces below.
 </p>
 
-This is my space for **connecting ideas**, **documenting learnings**, and **sharing insights**. Unlike a traditional blog, this garden grows organically - ideas link to each other, creating a web of interconnected knowledge.
+This repository contains fragments of understanding, half-formed theories, and connections that emerge in the spaces between disciplines. Each entry is both a destination and a departure point.
 
-## 🎯 What's Growing Here
+What you encounter here resists simple categorization. Some thoughts are fully formed; others remain deliberately incomplete, waiting for the right connection to give them meaning.
 
-- **Learning notes** from books, courses, and experiences
-- **Project documentation** and technical insights
-- **Personal reflections** and growth observations
-- **Random discoveries** that spark curiosity
-
-Feel free to wander around, follow the links, and discover unexpected connections!
-
-<strong>Recently updated notes</strong>
+**Recent additions to the archive**
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}

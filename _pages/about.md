@@ -4,11 +4,11 @@ title: About
 permalink: /about
 ---
 
-# About Me
+# The Curator
 
-Hi! I'm **Sanjan** 👋
+I am someone who thinks by writing, learns by connecting, and understands through synthesis.
 
-Welcome to my digital garden - a space where I cultivate my thoughts, ideas, and learnings. This is where I:
+This archive exists because certain ideas refuse to stay contained within traditional boundaries. What you find here represents an ongoing attempt to map the territories where different fields of knowledge meet and influence each other.
 
 - 📚 **Document my learning journey** across various topics
 - 🔗 **Connect ideas** and explore how they relate to each other
