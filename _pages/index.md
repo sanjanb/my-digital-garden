@@ -16,7 +16,7 @@ This is my space for **connecting ideas**, **documenting learnings**, and **shar
 ## 🎯 What's Growing Here
 
 - **Learning notes** from books, courses, and experiences
-- **Project documentation** and technical insights  
+- **Project documentation** and technical insights
 - **Personal reflections** and growth observations
 - **Random discoveries** that spark curiosity
 

@@ -11,13 +11,14 @@ Hi! I'm **Sanjan** 👋
 Welcome to my digital garden - a space where I cultivate my thoughts, ideas, and learnings. This is where I:
 
 - 📚 **Document my learning journey** across various topics
-- 🔗 **Connect ideas** and explore how they relate to each other  
+- 🔗 **Connect ideas** and explore how they relate to each other
 - 🌱 **Grow my knowledge** through writing and reflection
 - 💡 **Share insights** that might be useful to others
 
 ## What you'll find here
 
 This garden contains my notes on:
+
 - Technology and programming
 - Books and articles I'm reading
 - Personal development insights
@@ -35,4 +36,4 @@ Feel free to explore and discover unexpected connections! �
 
 ---
 
-*"The best way to learn is to connect new ideas with what you already know."*
+_"The best way to learn is to connect new ideas with what you already know."_
