@@ -13,6 +13,7 @@ This update transforms the template into a fully-featured, production-ready digi
 ### Added
 
 #### Phase 1: Content Foundation
+
 - **Taxonomy System**: Three comprehensive index pages
   - Programming Index (`index-programming.md`)
   - Systems Thinking Index (`index-systems-thinking.md`)
@@ -22,6 +23,7 @@ This update transforms the template into a fully-featured, production-ready digi
 - **Tags**: Added tag support to existing core notes
 
 #### Phase 2: Feature Enhancements
+
 - **Full-Text Search** (`/search`)
   - Client-side JavaScript search
   - Search across titles, content, and tags
@@ -42,6 +44,7 @@ This update transforms the template into a fully-featured, production-ready digi
   - Proper collection support
 
 #### Phase 3: Publishing & Sharing
+
 - **Start Here Guide** (`/start`)
   - Comprehensive onboarding
   - Navigation tips
@@ -69,12 +72,14 @@ This update transforms the template into a fully-featured, production-ready digi
 ### Enhanced
 
 #### Navigation
+
 - Reorganized main navigation menu
 - Added Search, Tags, and Start links
 - Improved navigation structure
 - Added dark mode toggle button
 
 #### SEO & Metadata
+
 - Comprehensive Open Graph tags
 - Twitter Card support
 - Meta descriptions
@@ -84,6 +89,7 @@ This update transforms the template into a fully-featured, production-ready digi
 - Article published/modified times
 
 #### Styling
+
 - CSS custom properties for theming
 - Dark mode color palette
 - Improved contrast ratios
@@ -91,12 +97,14 @@ This update transforms the template into a fully-featured, production-ready digi
 - Smoother transitions
 
 #### Footer
+
 - Multi-column layout
 - Quick links to important pages
 - Social/source links
 - Year copyright (dynamic)
 
 ### Changed
+
 - **Config**: Added description, author, url fields
 - **Gemfile**: Added jekyll-feed plugin
 - **Note Layout**: Added tag display, removed placeholder text
@@ -104,6 +112,7 @@ This update transforms the template into a fully-featured, production-ready digi
 - **Footer**: Complete redesign with better organization
 
 ### Documentation
+
 - **README.md**: Comprehensive rewrite with:
   - Quick start guide
   - Customization instructions
@@ -113,6 +122,7 @@ This update transforms the template into a fully-featured, production-ready digi
 - **Changelog**: This file
 
 ### Files Added
+
 ```
 _notes/
   ├── index-programming.md
@@ -131,6 +141,7 @@ SETUP-CHECKLIST.md
 ```
 
 ### Technical Improvements
+
 - Modular SCSS with CSS variables
 - Better accessibility (aria-labels)
 - Improved semantic HTML
@@ -142,6 +153,7 @@ SETUP-CHECKLIST.md
 ## [1.0.0] - Initial Template
 
 ### Original Features
+
 - Bidirectional linking with Roam-style syntax
 - Interactive graph visualization
 - Link previews on hover
@@ -151,6 +163,7 @@ SETUP-CHECKLIST.md
 - Basic styling
 
 ### Template Notes
+
 - Based on Maxime Vaillancourt's Digital Garden template
 - Example notes included
 - Basic navigation structure
@@ -162,12 +175,14 @@ SETUP-CHECKLIST.md
 See [Roadmap](/roadmap) for planned features in upcoming releases.
 
 ### Planned for 2.1.0
+
 - [ ] Note templates system
 - [ ] Changelog automation
 - [ ] Contribution stats visualization
 - [ ] Enhanced graph filtering
 
 ### Backlog
+
 - Interactive graph filtering by tags
 - Note maturity indicators (seedling/budding/evergreen)
 - Reading progress tracking

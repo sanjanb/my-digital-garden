@@ -1,38 +1,69 @@
-<div style="border-top: 1px solid var(--color-border); padding-top: 2em; margin-top: 3em;">
-  <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1em; font-size: 0.9em;">
+<div
+  style="
+    border-top: 1px solid var(--color-border);
+    padding-top: 2em;
+    margin-top: 3em;
+  "
+>
+  <div
+    style="
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 1em;
+      font-size: 0.9em;
+    "
+  >
     <div>
-      <strong>{{ site.title }}</strong><br>
-      <span style="color: var(--color-subtext);">Growing since 2025</span>
+      <strong>{{ site.title }}</strong><br />
+      <span style="color: var(--color-subtext)">Growing since 2025</span>
     </div>
-    <div style="display: flex; gap: 2em; flex-wrap: wrap;">
+    <div style="display: flex; gap: 2em; flex-wrap: wrap">
       <div>
-        <div style="font-weight: 500; margin-bottom: 0.5em;">Explore</div>
-        <div style="display: flex; flex-direction: column; gap: 0.3em;">
-          <a class="internal-link" href="{{ site.baseurl }}/start">Start Here</a>
+        <div style="font-weight: 500; margin-bottom: 0.5em">Explore</div>
+        <div style="display: flex; flex-direction: column; gap: 0.3em">
+          <a class="internal-link" href="{{ site.baseurl }}/start"
+            >Start Here</a
+          >
           <a class="internal-link" href="{{ site.baseurl }}/roadmap">Roadmap</a>
           <a class="internal-link" href="{{ site.baseurl }}/network">Network</a>
         </div>
       </div>
       <div>
-        <div style="font-weight: 500; margin-bottom: 0.5em;">Connect</div>
-        <div style="display: flex; flex-direction: column; gap: 0.3em;">
-          <a class="internal-link" href="{{ site.baseurl }}/subscribe">Subscribe</a>
+        <div style="font-weight: 500; margin-bottom: 0.5em">Connect</div>
+        <div style="display: flex; flex-direction: column; gap: 0.3em">
+          <a class="internal-link" href="{{ site.baseurl }}/subscribe"
+            >Subscribe</a
+          >
           <a class="internal-link" href="{{ site.baseurl }}/about">About</a>
           <a href="{{ site.baseurl }}/feed.xml">RSS</a>
         </div>
       </div>
       <div>
-        <div style="font-weight: 500; margin-bottom: 0.5em;">Source</div>
-        <div style="display: flex; flex-direction: column; gap: 0.3em;">
+        <div style="font-weight: 500; margin-bottom: 0.5em">Source</div>
+        <div style="display: flex; flex-direction: column; gap: 0.3em">
           <a href="https://github.com/sanjanb" target="_blank">GitHub</a>
-          <a href="https://github.com/yourusername/repo/blob/main/LICENSE" target="_blank">License</a>
+          <a
+            href="https://github.com/yourusername/repo/blob/main/LICENSE"
+            target="_blank"
+            >License</a
+          >
         </div>
       </div>
     </div>
   </div>
-  <div style="margin-top: 1.5em; padding-top: 1.5em; border-top: 1px solid var(--color-border); text-align: center; color: var(--color-subtext); font-size: 0.85em;">
-    Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> • 
-    Hosted on <a href="https://www.netlify.com/" target="_blank">Netlify</a> • 
-    © {{ 'now' | date: "%Y" }} {{ site.author }}
+  <div
+    style="
+      margin-top: 1.5em;
+      padding-top: 1.5em;
+      border-top: 1px solid var(--color-border);
+      text-align: center;
+      color: var(--color-subtext);
+      font-size: 0.85em;
+    "
+  >
+    Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> •
+    Hosted on <a href="https://www.netlify.com/" target="_blank">Netlify</a> • ©
+    {{ 'now' | date: "%Y" }} {{ site.author }}
   </div>
 </div>

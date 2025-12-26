@@ -5,6 +5,7 @@ Complete these steps to fully personalize your digital garden.
 ## ✅ Phase 1: Essential Configuration (Do First)
 
 ### 1. Site Configuration
+
 - [ ] Open `_config.yml`
 - [ ] Update `title` (currently "Sanjan's Codex")
 - [ ] Update `description`
@@ -13,6 +14,7 @@ Complete these steps to fully personalize your digital garden.
 - [ ] Save file
 
 ### 2. About Page
+
 - [ ] Open `_pages/about.md`
 - [ ] Replace placeholder contact info:
   - [ ] Email address (appears 3 times)
@@ -22,9 +24,11 @@ Complete these steps to fully personalize your digital garden.
 - [ ] Save file
 
 ### 3. Social Links (Multiple Files)
+
 Update these placeholder values in the following files:
 
 #### `_pages/subscribe.md`
+
 - [ ] Newsletter form action URL (if using newsletter service)
 - [ ] Email address
 - [ ] Twitter handle
@@ -32,31 +36,38 @@ Update these placeholder values in the following files:
 - [ ] LinkedIn profile
 
 #### `_pages/network.md`
+
 - [ ] Email address
 - [ ] GitHub repository URL/username
 
 #### `_pages/start.md`
+
 - [ ] Email address
 - [ ] Twitter handle
 - [ ] GitHub username
 
 #### `_pages/roadmap.md`
+
 - [ ] Email address
 - [ ] Twitter handle
 - [ ] GitHub repository URL
 
 #### `_pages/reference.md`
+
 - [ ] Email address
 - [ ] Twitter handle
 - [ ] All site URL placeholders
 
 #### `_includes/head.html`
+
 - [ ] Twitter handle (meta tag: `@yourhandle`)
 
 #### `_includes/footer.html`
+
 - [ ] GitHub repository URL
 
 ### 4. README.md
+
 - [ ] Replace all `[Your Name]` placeholders
 - [ ] Update `[Your URL Here]` with actual site URL
 - [ ] Update repository URLs
@@ -66,17 +77,20 @@ Update these placeholder values in the following files:
 ## ✅ Phase 2: Optional Enhancements
 
 ### 5. Newsletter Integration (If Using)
+
 - [ ] Sign up for newsletter service (e.g., Buttondown, Substack, Mailchimp)
 - [ ] Get form action URL
 - [ ] Update `_pages/subscribe.md` with actual form endpoint
 - [ ] Test subscription flow
 
 ### 6. Analytics (Optional)
+
 - [ ] Choose analytics provider (Plausible, Simple Analytics, or Google Analytics)
 - [ ] Add tracking code to `_includes/head.html`
 - [ ] Test analytics tracking
 
 ### 7. Custom Domain (If Using)
+
 - [ ] Purchase domain
 - [ ] Update `url` in `_config.yml`
 - [ ] Configure DNS settings
@@ -84,6 +98,7 @@ Update these placeholder values in the following files:
 - [ ] Enable HTTPS
 
 ### 8. Favicon
+
 - [ ] Create your favicon (16x16, 32x32, etc.)
 - [ ] Add to `assets/` folder
 - [ ] Update `_includes/head.html` favicon link
@@ -91,6 +106,7 @@ Update these placeholder values in the following files:
 ## ✅ Phase 3: Content Personalization
 
 ### 9. Clean Up Template Content
+
 - [ ] Review all notes in `_notes/` folder
 - [ ] Keep, edit, or delete template examples:
   - [ ] `accents.md`
@@ -110,13 +126,16 @@ Update these placeholder values in the following files:
   - [ ] `animals/tigers.md`
 
 ### 10. Add Your First Real Notes
+
 - [ ] Create 3-5 notes in your own voice
 - [ ] Add tags to each note
 - [ ] Create connections between notes
 - [ ] Update index pages with your notes
 
 ### 11. Customize Index Pages
+
 Review and update:
+
 - [ ] `_notes/index-programming.md`
 - [ ] `_notes/index-systems-thinking.md`
 - [ ] `_notes/index-personal-development.md`
@@ -124,6 +143,7 @@ Review and update:
 ## ✅ Phase 4: Deployment
 
 ### 12. GitHub Repository
+
 - [ ] Create new GitHub repository
 - [ ] Initialize git in your project folder
 - [ ] Add remote origin
@@ -139,6 +159,7 @@ git push -u origin main
 ```
 
 ### 13. Netlify Deployment
+
 - [ ] Sign up for Netlify account
 - [ ] Connect GitHub repository
 - [ ] Configure build settings:
@@ -148,6 +169,7 @@ git push -u origin main
 - [ ] Test deployed site
 
 ### 14. Post-Deployment
+
 - [ ] Update `_config.yml` with actual deployed URL
 - [ ] Rebuild and redeploy
 - [ ] Test all links and features
@@ -159,6 +181,7 @@ git push -u origin main
 ## ✅ Phase 5: Dependencies & Local Setup
 
 ### 15. Install Dependencies
+
 - [ ] Ensure Ruby 3.x is installed
 - [ ] Run `bundle install`
 - [ ] Install the new RSS feed gem: `bundle install`
@@ -166,6 +189,7 @@ git push -u origin main
 - [ ] Verify site works at `localhost:4000`
 
 ### 16. Test All Features Locally
+
 - [ ] Bidirectional links work
 - [ ] Graph visualization loads
 - [ ] Search returns results
@@ -178,14 +202,14 @@ git push -u origin main
 
 Use your code editor's find/replace function for these common placeholders:
 
-| Find | Replace With |
-|------|--------------|
-| `your.email@example.com` | Your actual email |
-| `@yourhandle` | Your Twitter handle |
-| `@yourusername` | Your GitHub username |
-| `your-site-url.com` | Your actual domain |
-| `https://your-site-url.com` | Your full URL |
-| `yourusername/repo` | Your GitHub repo path |
+| Find                        | Replace With          |
+| --------------------------- | --------------------- |
+| `your.email@example.com`    | Your actual email     |
+| `@yourhandle`               | Your Twitter handle   |
+| `@yourusername`             | Your GitHub username  |
+| `your-site-url.com`         | Your actual domain    |
+| `https://your-site-url.com` | Your full URL         |
+| `yourusername/repo`         | Your GitHub repo path |
 
 ## 📝 Notes
 

@@ -11,17 +11,20 @@ A handy guide to navigating and contributing to this digital garden.
 ## 🔍 Finding Content
 
 ### By Method
+
 - **[Search](/search)** - Full-text search across all notes
 - **[Tags](/tags)** - Browse by topic/category
 - **[Map](/map)** - Visual graph of all connections
 - **[Random](/random)** - Discover something unexpected
 
 ### By Topic
+
 - **[Programming Index](/index-programming)** - Technical notes
 - **[Systems Thinking Index](/index-systems-thinking)** - Complexity & patterns
 - **[Personal Development Index](/index-personal-development)** - Growth & learning
 
 ### By Status
+
 - **[Current Investigations](/current-investigations)** - Active explorations
 - **[The Threshold](/welcome-to-my-garden)** - Main entry point
 - **[Home](/)** - Recent updates
@@ -32,11 +35,11 @@ A handy guide to navigating and contributing to this digital garden.
 
 Notes are marked by their development stage:
 
-| Symbol | Stage | Description |
-|--------|-------|-------------|
-| 🌱 | Seedling | Early ideas, brief notes, placeholders |
-| 🌿 | Budding | Developing concepts with connections |
-| 🌳 | Evergreen | Well-developed, regularly updated |
+| Symbol | Stage     | Description                            |
+| ------ | --------- | -------------------------------------- |
+| 🌱     | Seedling  | Early ideas, brief notes, placeholders |
+| 🌿     | Budding   | Developing concepts with connections   |
+| 🌳     | Evergreen | Well-developed, regularly updated      |
 
 ### Link Types
 
@@ -49,12 +52,15 @@ Notes are marked by their development stage:
 Common tags used throughout the garden:
 
 **By Domain:**
+
 - `programming` `systems` `personal-growth` `career`
 
 **By Type:**
+
 - `index` `meta` `guide` `framework` `pattern`
 
 **By Status:**
+
 - `active` `exploration` `reference` `start-here`
 
 ## ⌨️ Keyboard Shortcuts
@@ -110,6 +116,7 @@ While this is a personal garden, feedback is welcome:
 ## 📱 Mobile Experience
 
 All features work on mobile:
+
 - Responsive graph visualization
 - Touch-friendly navigation
 - Optimized reading experience
@@ -117,12 +124,14 @@ All features work on mobile:
 ## 🔧 Technical Details
 
 ### Built With
+
 - **Jekyll 4.4** - Static site generator
 - **Custom plugins** - Bidirectional linking
 - **Vanilla JS** - Search & theme toggle
 - **SCSS** - Styling with CSS variables
 
 ### Performance
+
 - Static HTML - Fast loading
 - No tracking - Privacy-first
 - No external dependencies for core features
@@ -130,18 +139,21 @@ All features work on mobile:
 ## 📖 Suggested Reading Paths
 
 ### For Developers
+
 1. [Programming Index](/index-programming)
 2. [[Programming Concepts]]
 3. [[Adaptive Patterns]]
 4. [[Consistency]]
 
 ### For Systems Thinkers
+
 1. [Systems Thinking Index](/index-systems-thinking)
 2. [[Conceptual Frameworks]]
 3. [[Paradox of Boundaries]]
 4. [[Current Investigations]]
 
 ### For Learners
+
 1. [Start Here](/start)
 2. [[The Threshold]]
 3. [Personal Development Index](/index-personal-development)

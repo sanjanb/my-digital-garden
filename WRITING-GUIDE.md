@@ -5,6 +5,7 @@ Quick reference for creating and maintaining notes in your digital garden.
 ## Creating a New Note
 
 ### 1. File Location
+
 Create a new `.md` file in `_notes/`:
 
 ```bash
@@ -12,6 +13,7 @@ _notes/my-new-note.md
 ```
 
 For organized topics, use subdirectories:
+
 ```bash
 _notes/programming/design-patterns.md
 _notes/books/atomic-habits.md
@@ -44,6 +46,7 @@ Link to related notes with [[Other Note Title]].
 ### 3. Frontmatter Fields
 
 **Required:**
+
 ```yaml
 ---
 title: Your Note Title
@@ -51,6 +54,7 @@ title: Your Note Title
 ```
 
 **Recommended:**
+
 ```yaml
 ---
 title: Your Note Title
@@ -59,6 +63,7 @@ tags: [topic, category, type]
 ```
 
 **Optional:**
+
 ```yaml
 ---
 title: Your Note Title
@@ -71,19 +76,22 @@ image: /assets/images/cover.jpg
 ## Linking Strategy
 
 ### Internal Links (Preferred)
+
 ```markdown
-[[Note Title]]                    # Links by title
-[[filename]]                      # Links by filename
-[[Note Title|custom text]]        # Custom link text
+[[Note Title]] # Links by title
+[[filename]] # Links by filename
+[[Note Title|custom text]] # Custom link text
 ```
 
 ### Regular Markdown Links
+
 ```markdown
 [External Site](https://example.com)
 [Internal Page](/about)
 ```
 
 ### Link Best Practices
+
 - ✅ Link liberally - connections create value
 - ✅ Link in both directions when relevant
 - ✅ Use descriptive link text
@@ -95,18 +103,23 @@ image: /assets/images/cover.jpg
 ### Tag Categories
 
 **By Domain:**
+
 - `programming` `systems` `personal-growth` `career` `learning`
 
 **By Type:**
+
 - `index` `meta` `guide` `framework` `pattern` `concept` `tool`
 
 **By Status:**
+
 - `active` `exploration` `reference` `draft` `start-here`
 
 **By Format:**
+
 - `essay` `list` `question` `definition` `example`
 
 ### Tagging Best Practices
+
 - Use 2-5 tags per note
 - Be consistent with tag names (use existing tags when possible)
 - Combine domain + type tags
@@ -117,16 +130,19 @@ image: /assets/images/cover.jpg
 Mark maturity in your content (optional):
 
 **🌱 Seedling** - New notes, rough ideas
+
 ```markdown
 > 🌱 Seedling - This is a rough note, still developing
 ```
 
 **🌿 Budding** - Developing with connections
+
 ```markdown
 > 🌿 Budding - Actively developing this concept
 ```
 
 **🌳 Evergreen** - Well-established, regularly updated
+
 ```markdown
 > 🌳 Evergreen - This note is well-developed and regularly updated
 ```
@@ -134,21 +150,25 @@ Mark maturity in your content (optional):
 ## Writing Tips
 
 ### Start Small
+
 - Write a single sentence
 - Add another when inspiration strikes
 - Let notes grow organically
 
 ### Embrace Incompleteness
+
 - Publish rough drafts
 - Mark areas for expansion: `[TODO: expand this]`
 - Return and refine over time
 
 ### Build Connections
+
 - Reference at least one other note
 - Ask: "What does this relate to?"
 - Create bidirectional links
 
 ### Write for Future You
+
 - Explain concepts clearly
 - Include examples
 - Link to sources
@@ -156,6 +176,7 @@ Mark maturity in your content (optional):
 ## Content Patterns
 
 ### Concept Note
+
 ```markdown
 ---
 title: Concept Name
@@ -165,21 +186,26 @@ tags: [concept, domain]
 # Concept Name
 
 ## Definition
+
 Clear, concise definition.
 
 ## Key Ideas
+
 - Main point 1
 - Main point 2
 
 ## Examples
+
 Real-world applications.
 
 ## Related
+
 - [[Similar Concept]]
 - [[Contrasting Concept]]
 ```
 
 ### Index/Hub Note
+
 ```markdown
 ---
 title: Topic Index
@@ -191,17 +217,21 @@ tags: [index, domain]
 Overview of this topic area.
 
 ## Core Concepts
+
 - [[Concept 1]]
 - [[Concept 2]]
 
 ## Related Areas
+
 - [[Related Index]]
 
 ## Current Questions
+
 - What are we exploring?
 ```
 
 ### Question Note
+
 ```markdown
 ---
 title: How does X work?
@@ -211,20 +241,25 @@ tags: [question, exploration]
 # How does X work?
 
 ## Initial Thoughts
+
 Current understanding.
 
 ## Investigations
+
 - [[Research 1]]
 - [[Research 2]]
 
 ## Emerging Answers
+
 Partial insights.
 
 ## Related Questions
+
 - [[Question 2]]
 ```
 
 ### Book/Resource Note
+
 ```markdown
 ---
 title: Book Title - Author
@@ -234,35 +269,42 @@ tags: [book, topic]
 # Book Title by Author
 
 ## Key Takeaways
+
 - Insight 1
 - Insight 2
 
 ## Memorable Quotes
+
 > "Quote here"
 
 ## Connections
+
 - Relates to [[Concept]]
 - Challenges [[Another Concept]]
 
 ## My Thoughts
+
 Personal reflections.
 ```
 
 ## Maintenance Tasks
 
 ### Weekly
+
 - [ ] Add 1-2 new notes
 - [ ] Update 1 existing note
 - [ ] Check for broken internal links
 - [ ] Review and respond to any feedback
 
 ### Monthly
+
 - [ ] Review tag usage on `/tags` page
 - [ ] Update index pages with new notes
 - [ ] Strengthen weak connections
 - [ ] Archive or delete stale drafts
 
 ### Quarterly
+
 - [ ] Major reorganization if needed
 - [ ] Update roadmap
 - [ ] Review growth metrics
@@ -271,20 +313,25 @@ Personal reflections.
 ## Formatting Tips
 
 ### Headings
+
 ```markdown
 # Note Title (h1 - use once)
+
 ## Section (h2 - main sections)
+
 ### Subsection (h3 - details)
 ```
 
 ### Emphasis
+
 ```markdown
 **bold** for important terms
-*italic* for emphasis
+_italic_ for emphasis
 `code` for technical terms
 ```
 
 ### Lists
+
 ```markdown
 - Unordered list
 - For collections
@@ -294,12 +341,14 @@ Personal reflections.
 ```
 
 ### Quotes
+
 ```markdown
 > Blockquote for
 > referenced content
 ```
 
 ### Code Blocks
+
 ````markdown
 ```language
 code here
@@ -307,6 +356,7 @@ code here
 ````
 
 ### Callouts (Manual)
+
 ```markdown
 > 💡 **Tip**: Helpful advice here
 
@@ -339,16 +389,19 @@ Before publishing a new note:
 ## Quick Commands
 
 ### Test Locally
+
 ```bash
 bundle exec jekyll serve
 ```
 
 ### Build Site
+
 ```bash
 bundle exec jekyll build
 ```
 
 ### New Note Quick Start
+
 ```bash
 # Create from template
 touch _notes/new-note.md
