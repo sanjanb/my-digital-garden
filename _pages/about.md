@@ -4,33 +4,53 @@ title: About
 permalink: /about
 ---
 
-# The Curator
+# About This Digital Garden
 
-I am someone who thinks by writing, learns by connecting, and understands through synthesis.
+Welcome to my personal knowledge garden—a space where ideas grow, connect, and evolve over time.
 
-This archive exists because certain ideas refuse to stay contained within traditional boundaries. What you find here represents an ongoing attempt to map the territories where different fields of knowledge meet and influence each other.
+## Who I Am
 
-## The Practice
+I'm Sanjan, a learner and builder exploring the intersections of:
+- **Software Engineering** and system design
+- **Conceptual Frameworks** that help us understand complexity
+- **Personal Development** and sustainable practices
+- **Systems Thinking** and emergent behaviors
 
-My approach involves collecting fragments from various domains—technical systems, philosophical frameworks, creative methodologies, behavioral patterns—and examining how they inform one another.
+This digital garden is my workshop for thinking in public, connecting disparate ideas, and building understanding incrementally.
 
-The result is neither purely technical documentation nor abstract theory, but something that exists in the spaces between established categories.
+## The Philosophy
 
-- Technology and programming
-- Books and articles I'm reading
-- Personal development insights
-- Project documentation
-- Random thoughts and observations
+Unlike traditional blogs with polished, time-stamped posts, this garden embraces:
 
-## How to navigate
+- **Growth over perfection** - Notes evolve as I learn more
+- **Connection over isolation** - Ideas link to create unexpected insights
+- **Process over product** - Half-formed thoughts have value too
+- **Exploration over certainty** - Questions are as valuable as answers
 
-- Use the **graph visualization** at the bottom of each note to explore connections
-- Follow the **bidirectional links** (highlighted in purple) between related topics
-- Check out the **recent updates** on the homepage
-- Hover over links for quick previews
+## What You'll Find Here
 
-Feel free to explore and discover unexpected connections! �
+- [[Programming Concepts]] and technical explorations
+- [[Conceptual Frameworks]] for understanding systems
+- [[Career Development]] insights and strategies
+- [[Adaptive Patterns]] across different domains
+- Personal experiments and observations
+
+## How to Navigate
+
+- **Start at [[The Threshold]]** for an introduction to my current thinking
+- **Browse [[Current Investigations]]** to see what I'm actively exploring
+- **Use the graph** at the bottom of each page to visualize connections
+- **Follow bidirectional links** (in purple) between related concepts
+- **Hover over links** for instant previews without leaving the page
+
+## Get in Touch
+
+This is a public learning space. If something here resonates, challenges, or confuses you, I'd love to hear about it.
+
+- Email: your.email@example.com
+- GitHub: @yourusername
+- Twitter: @yourhandle
 
 ---
 
-_"The best way to learn is to connect new ideas with what you already know."_
+*Last updated: December 2025*

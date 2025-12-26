@@ -10,15 +10,23 @@
   <a class="internal-link" href="{{ site.baseurl }}/"
     ><b>{{ site.title }}</b></a
   >
-  <nav style="display: flex; gap: 1.5em; font-size: 0.9em; flex-wrap: wrap">
-    <a class="internal-link" href="{{ site.baseurl }}/welcome-to-my-garden"
-      >Enter</a
-    >
+  <nav style="display: flex; gap: 1.5em; font-size: 0.9em; flex-wrap: wrap; align-items: center;">
+    <a class="internal-link" href="{{ site.baseurl }}/start">Start</a>
+    <a class="internal-link" href="{{ site.baseurl }}/search">Search</a>
+    <a class="internal-link" href="{{ site.baseurl }}/tags">Tags</a>
     <a class="internal-link" href="{{ site.baseurl }}/map">Map</a>
     <a class="internal-link" href="{{ site.baseurl }}/current-investigations"
       >Active</a
     >
     <a class="internal-link" href="{{ site.baseurl }}/random">?</a>
-    <a class="internal-link" href="{{ site.baseurl }}/about">Curator</a>
+    <a class="internal-link" href="{{ site.baseurl }}/about">About</a>
+    <button 
+      onclick="toggleTheme()" 
+      style="background: none; border: none; cursor: pointer; font-size: 1.2em; padding: 0; line-height: 1;"
+      aria-label="Toggle dark mode"
+      title="Toggle dark mode"
+    >
+      <span class="theme-toggle">☀️</span>
+    </button>
   </nav>
 </div>

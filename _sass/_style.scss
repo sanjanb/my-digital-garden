@@ -9,6 +9,37 @@ $border-radius: 4px;
 $font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
   sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
 
+// Dark mode variables
+:root {
+  --color-primary: hsl(0, 0%, 10%);
+  --color-text: hsl(0, 0%, 20%);
+  --color-subtext: hsl(0, 0%, 30%);
+  --color-border: hsl(0, 0%, 85%);
+  --color-box-background: hsl(0, 0%, 96%);
+  --color-background: #ffffff;
+  --color-link-hover: #fffaf1;
+  --color-code-bg: #f5f5f5;
+}
+
+[data-theme="dark"] {
+  --color-primary: hsl(0, 0%, 90%);
+  --color-text: hsl(0, 0%, 80%);
+  --color-subtext: hsl(0, 0%, 60%);
+  --color-border: hsl(0, 0%, 30%);
+  --color-box-background: hsl(0, 0%, 15%);
+  --color-background: hsl(0, 0%, 10%);
+  --color-link-hover: hsl(45, 100%, 15%);
+  --color-code-bg: hsl(0, 0%, 15%);
+  
+  .theme-toggle::before {
+    content: "🌙";
+  }
+}
+
+.theme-toggle::before {
+  content: "☀️";
+}
+
 body {
   box-sizing: content-box;
   font-family: $font-family;
@@ -16,9 +47,11 @@ body {
   line-height: 1.7;
   padding: 4vh 6vw;
   overflow-x: hidden;
-  color: $color-text;
+  color: var(--color-text);
   font-size: 1rem;
   max-width: 63em;
+  background: var(--color-background);
+  transition: background 300ms, color 300ms;
 
   @media (min-width: 820px) {
     font-size: 1.2rem;
@@ -27,14 +60,14 @@ body {
 
 time {
   display: block;
-  color: $color-subtext;
+  color: var(--color-subtext);
   margin: 0.5em 0 1em;
 }
 
 footer {
   margin: 2em 0;
   font-size: 0.8em;
-  color: color.mix($color-text, white, 80%);
+  color: var(--color-subtext);
   padding-top: 1em;
 }
 
@@ -50,7 +83,7 @@ blockquote {
   padding: 1.5em;
   margin: 0;
   font-size: 0.88em;
-  background: $color-box-background;
+  background: var(--color-box-background);
   border-radius: $border-radius;
 
   p {
@@ -63,7 +96,7 @@ hr {
   border: 0;
   height: 1px;
   margin: 1.5em 0;
-  background: $color-border;
+  background: var(--color-border);
 }
 
 h1,
@@ -81,18 +114,18 @@ a {
   transition: background 300ms;
   padding: 0 0.1em;
   text-decoration: none;
-  border-bottom: 1px solid $color-border;
-  color: $color-primary;
+  border-bottom: 1px solid var(--color-border);
+  color: var(--color-primary);
   &:hover {
-    color: black !important;
-    background: #fffaf1;
+    color: var(--color-primary) !important;
+    background: var(--color-link-hover);
   }
   &:after {
     position: relative;
     top: -0.5em;
     font-size: 0.7em;
     content: "↗";
-    color: #aaaaaa;
+    color: var(--color-subtext);
   }
   &.internal-link:after,
   &.footnote:after,
@@ -102,8 +135,8 @@ a {
 }
 
 *:focus {
-  background: #ffe8bc !important;
-  color: black !important;
+  background: var(--color-link-hover) !important;
+  color: var(--color-primary) !important;
 }
 
 nav {
@@ -124,13 +157,13 @@ nav {
 }
 
 .backlink-box {
-  background: $color-box-background;
+  background: var(--color-box-background);
   padding: 1em;
   border-radius: $border-radius;
 }
 
 code {
-  background: #f5f5f5;
+  background: var(--color-code-bg);
   padding: 0.1em 0.2em;
   border-radius: 4px;
 }

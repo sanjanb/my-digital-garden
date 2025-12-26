@@ -1,4 +1,7 @@
 title: Sanjan's Codex
+description: A digital garden exploring software engineering, systems thinking, and personal development through interconnected notes and evolving ideas.
+author: Sanjan
+url: https://your-site-url.com
 include: ["_pages"]
 exclude: ["_includes/notes_graph.json"]
 # You may need to change the base URL depending on your deploy configuration.
@@ -22,6 +25,12 @@ relative_permalinks: false
 
 plugins:
   - jekyll-last-modified-at
+  - jekyll-feed
+
+feed:
+  collections:
+    notes:
+      path: "/feed.xml"
 
 sass:
   sass_dir: _sass

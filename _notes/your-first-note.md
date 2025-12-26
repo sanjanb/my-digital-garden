@@ -1,10 +1,11 @@
 ---
-title: Your first seed
+title: How This Garden Works
+tags: [meta, guide, getting-started]
 ---
 
 ### Welcome!
 
-This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
+This note explains how the digital garden linking system works. It's been adapted from the template to serve as a reference guide. 
 
 ### Link syntax
 

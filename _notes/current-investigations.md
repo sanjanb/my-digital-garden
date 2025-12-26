@@ -1,10 +1,13 @@
 ---
 title: Current Investigations
+tags: [meta, active, exploration]
 ---
 
 # Current Investigations
 
 Active lines of inquiry that are currently evolving. These thoughts remain deliberately incomplete—they serve as launching points for exploration rather than final destinations.
+
+**Browse by Domain**: [[Programming Index]] • [[Systems Thinking Index]] • [[Personal Development Index]]
 
 ## The Question of Scale
 
