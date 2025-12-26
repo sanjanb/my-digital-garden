@@ -21,14 +21,17 @@ This garden doesn't exist in isolation. Here are other digital gardens, personal
 ### Gardens on Similar Topics
 
 **Systems & Complexity:**
+
 - [Azlen Elza's Garden](https://notes.azlen.me/) - Tools for thought and systems thinking
 - [Joel Chan's Notes](https://joelchan.me/) - Knowledge synthesis and research
 
 **Programming & Tech:**
+
 - [Digital Garden of Nikita Voloboev](https://wiki.nikiv.dev/) - Comprehensive tech wiki
 - [Devine Lu Linvega](https://wiki.xxiivv.com/) - Programming, design, and tools
 
 **Personal Knowledge Management:**
+
 - [Mike Tannenbaum's Garden](https://garden.miketannenbaum.com/) - Life, work, and learning
 - [Shawn Wang's Garden](https://www.swyx.io/digital-garden-tos) - Learning in public
 
@@ -57,11 +60,13 @@ This garden doesn't exist in isolation. Here are other digital gardens, personal
 ## Inspiration Sources
 
 ### Books
-- *How to Take Smart Notes* - Sönke Ahrens
-- *Where Good Ideas Come From* - Steven Johnson
-- *The Timeless Way of Building* - Christopher Alexander
+
+- _How to Take Smart Notes_ - Sönke Ahrens
+- _Where Good Ideas Come From_ - Steven Johnson
+- _The Timeless Way of Building_ - Christopher Alexander
 
 ### Essays & Papers
+
 - [Building a Second Brain](https://www.buildingasecondbrain.com/) - Tiago Forte
 - [Evergreen Notes](https://notes.andymatuschak.org/Evergreen_notes) - Andy Matuschak
 - [Zettelkasten Method](https://zettelkasten.de/introduction/) - Introduction guide
@@ -76,13 +81,14 @@ This garden supports webmentions. If you reference any notes from your garden or
 
 ---
 
-*"Gardens need walls, but the gates should be open." - Traditional gardening wisdom*
+_"Gardens need walls, but the gates should be open." - Traditional gardening wisdom_
 
 ## Link to This Garden
 
 Feel free to link to any note in this garden. Everything here is published under the MIT License (see [LICENSE](https://github.com/yourusername/your-repo/blob/main/LICENSE)).
 
 **Citation format:**
+
 ```
 [Note Title], Sanjan's Codex, {{ site.url }}[note-url]
 ```

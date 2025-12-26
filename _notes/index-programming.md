@@ -27,4 +27,4 @@ A hub for all programming-related notes in this garden.
 
 ---
 
-*This index grows as I add more programming-related notes. Check back regularly for new connections.*
+_This index grows as I add more programming-related notes. Check back regularly for new connections._

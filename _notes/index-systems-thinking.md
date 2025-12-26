@@ -31,4 +31,4 @@ See [[Current Investigations]] for active explorations in systems thinking.
 
 ---
 
-*This is a living index that evolves as connections deepen.*
+_This is a living index that evolves as connections deepen._

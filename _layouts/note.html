@@ -26,9 +26,19 @@ layout: default
       </span>
     </div>
     {% if page.tags %}
-    <div style="margin: 1em 0;">
+    <div style="margin: 1em 0">
       {% for tag in page.tags %}
-      <span style="display: inline-block; padding: 0.25em 0.6em; margin: 0.2em; background: #e9ecef; border-radius: 3px; font-size: 0.85em; color: #495057;">
+      <span
+        style="
+          display: inline-block;
+          padding: 0.25em 0.6em;
+          margin: 0.2em;
+          background: #e9ecef;
+          border-radius: 3px;
+          font-size: 0.85em;
+          color: #495057;
+        "
+      >
         #{{ tag }}
       </span>
       {% endfor %}
@@ -37,9 +47,7 @@ layout: default
   </div>
 
   <div id="notes-entry-container">
-    <content>
-      {{ content }}
-    </content>
+    <content> {{ content }} </content>
 
     <side style="font-size: 0.9em">
       <h3 style="margin-bottom: 1em">Connected Thoughts</h3>

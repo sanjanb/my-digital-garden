@@ -12,7 +12,8 @@ Explore notes organized by topic and theme.
 {% assign tags = site.notes | map: 'tags' | compact | join: ',' | split: ',' | uniq | sort %}
 
 {% for tag in tags %}
-  {% assign tag_notes = site.notes | where_exp: "note", "note.tags contains tag" %}
+{% assign tag_notes = site.notes | where_exp: "note", "note.tags contains tag" %}
+
   <div style="margin-bottom: 2em;">
     <h3 id="{{ tag | slugify }}" style="border-bottom: 2px solid #dee2e6; padding-bottom: 0.5em; margin-bottom: 1em;">
       #{{ tag }} <span style="font-size: 0.7em; color: #666;">({{ tag_notes.size }})</span>

@@ -25,6 +25,7 @@ Notes on growth, learning, and sustainable practices for long-term development.
 ## Philosophy
 
 The practice of personal development is inseparable from understanding systems. Growth happens through:
+
 - Consistent small actions
 - Building strong feedback loops
 - Adapting patterns from diverse domains
@@ -32,4 +33,4 @@ The practice of personal development is inseparable from understanding systems. 
 
 ---
 
-*Personal growth is a system, not a destination.*
+_Personal growth is a system, not a destination._

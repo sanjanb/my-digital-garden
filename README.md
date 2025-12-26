@@ -16,12 +16,14 @@ This is a **digital garden**—a collection of interconnected notes that grow an
 ## Features
 
 ### Core Functionality
+
 - ✅ **Bidirectional Links** - Roam-style `[[wiki links]]` with automatic backlinks
 - ✅ **Graph Visualization** - Interactive network of connected notes
 - ✅ **Link Previews** - Hover to preview notes without navigating
 - ✅ **Responsive Design** - Works on all devices
 
-### Enhanced Features  
+### Enhanced Features
+
 - ✅ **Full-Text Search** - Find content across all notes
 - ✅ **Tagging System** - Organize and browse by topic
 - ✅ **Dark Mode** - Toggle between light/dark themes
@@ -39,17 +41,20 @@ This is a **digital garden**—a collection of interconnected notes that grow an
 ### Installation
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/yourusername/my-digital-garden.git
    cd my-digital-garden
    ```
 
 2. **Install dependencies**
+
    ```bash
    bundle install
    ```
 
 3. **Run locally**
+
    ```bash
    bundle exec jekyll serve
    ```
@@ -96,6 +101,7 @@ Content goes here with [[links to other notes]].
 ### 4. Update Social Links
 
 Replace placeholders in:
+
 - [`_pages/about.md`](_pages/about.md)
 - [`_pages/subscribe.md`](_pages/subscribe.md)
 - [`_pages/network.md`](_pages/network.md)
@@ -171,7 +177,7 @@ Link to other notes with [[Note Title]] or [[filename]].
 ### Linking
 
 - `[[Note Title]]` - Links by title
-- `[[filename]]` - Links by filename  
+- `[[filename]]` - Links by filename
 - `[[Title|Custom Text]]` - Links with custom text
 
 ### Tags
@@ -192,6 +198,7 @@ Browse all tags at `/tags`.
 See [Roadmap](https://your-site-url.com/roadmap) for planned features and development timeline.
 
 ### Recently Completed
+
 - ✅ Tagging system
 - ✅ Search functionality
 - ✅ Dark mode
@@ -199,6 +206,7 @@ See [Roadmap](https://your-site-url.com/roadmap) for planned features and develo
 - ✅ Enhanced SEO
 
 ### Next Up
+
 - 🚧 Content expansion (10+ new notes)
 - 🚧 Note templates
 - 🚧 Changelog tracking
@@ -207,11 +215,13 @@ See [Roadmap](https://your-site-url.com/roadmap) for planned features and develo
 ## Resources
 
 ### Digital Gardening
+
 - [The Garden and the Stream](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/) - Mike Caulfield
 - [Digital Garden ToS](https://www.swyx.io/digital-garden-tos) - Shawn Wang
 - [Garden History](https://maggieappleton.com/garden-history) - Maggie Appleton
 
 ### Jekyll Resources
+
 - [Jekyll Documentation](https://jekyllrb.com/docs/)
 - [Liquid Template Language](https://shopify.github.io/liquid/)
 - [Jekyll Plugins](https://jekyllrb.com/docs/plugins/)

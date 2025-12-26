@@ -132,11 +132,11 @@ This page tracks the evolution of this digital garden—what's been implemented,
 
 - **Daily**: Write/edit notes as inspiration strikes
 - **Weekly**: Review and respond to any feedback
-- **Monthly**: 
+- **Monthly**:
   - Check for broken links
   - Update index pages
   - Refine tagging taxonomy
-- **Quarterly**: 
+- **Quarterly**:
   - Major reorganization if needed
   - Dependency updates
   - Feature additions
@@ -151,6 +151,7 @@ This page tracks the evolution of this digital garden—what's been implemented,
 ## 💡 Inspiration & References
 
 This roadmap is inspired by:
+
 - [Andy Matuschak's approach to evergreen notes](https://notes.andymatuschak.org/)
 - [Maggie Appleton's garden philosophy](https://maggieappleton.com/garden-history)
 - [Anne-Laure Le Cunff's garden principles](https://nesslabs.com/mind-garden)
@@ -160,12 +161,13 @@ This roadmap is inspired by:
 ## How You Can Help
 
 If you're reading this and have suggestions:
+
 - **Email**: your.email@example.com
 - **Twitter**: @yourhandle
 - **GitHub Issues**: [Project Repository](https://github.com/yourusername/repo)
 
 ---
 
-*This roadmap is itself a living document and will evolve as the garden grows.*
+_This roadmap is itself a living document and will evolve as the garden grows._
 
 **Last Updated**: December 26, 2025

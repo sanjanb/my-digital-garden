@@ -67,4 +67,4 @@ I don't have a fixed publishing schedule. Notes grow organically as I learn and 
 
 ---
 
-*Questions? Reach out at your.email@example.com*
+_Questions? Reach out at your.email@example.com_

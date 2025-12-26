@@ -86,4 +86,4 @@ Found something interesting? Have questions? Want to discuss an idea?
 
 **Ready to explore?** Start with [[The Threshold]] or dive into [[Current Investigations]].
 
-*Happy wandering! 🌱*
+_Happy wandering! 🌱_

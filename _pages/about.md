@@ -11,6 +11,7 @@ Welcome to my personal knowledge garden—a space where ideas grow, connect, and
 ## Who I Am
 
 I'm Sanjan, a learner and builder exploring the intersections of:
+
 - **Software Engineering** and system design
 - **Conceptual Frameworks** that help us understand complexity
 - **Personal Development** and sustainable practices
@@ -53,4 +54,4 @@ This is a public learning space. If something here resonates, challenges, or con
 
 ---
 
-*Last updated: December 2025*
+_Last updated: December 2025_
