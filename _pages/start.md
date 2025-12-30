@@ -42,6 +42,7 @@ Unlike traditional blogs with polished, finished articles, gardens grow organica
 - **[[Programming Index]]** - Technical concepts, patterns, and practices
 - **[[Systems Thinking Index]]** - How complex systems work and adapt
 - **[[Personal Development Index]]** - Growth, learning, and sustainable practices
+- **[Stories & Lessons](/stories)** - Personal narratives and insights from experience
 
 ### Popular Notes
 
