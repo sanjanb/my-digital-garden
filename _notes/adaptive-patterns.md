@@ -56,3 +56,5 @@ _Adaptation is not about becoming something else; it's about becoming more yours
 - [[The Paradox of Boundaries]] — How constraints enable rather than limit adaptation
 - [[Conceptual Migration]] — Ideas as adaptive systems moving between domains
 - [[Programming concepts]] — Technical implementations of adaptive principles
+- [[Temporal Horizons and Risk]] — How systems operating at different time scales require different adaptation strategies
+- [[Behavioral Inertia]] — Feedback loops amplifying collective behavioral swings

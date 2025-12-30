@@ -141,4 +141,3 @@ _"In the short run, the market is a voting machine, but in the long run, it is a
 - [[Temporal Horizons and Risk]] — How time frames shape crowd dynamics
 - [[Mental Rehearsal as Cognitive Architecture]] — Preparing responses to crowd panic
 - [[Adaptive Patterns]] — Feedback loops that amplify collective swings
-

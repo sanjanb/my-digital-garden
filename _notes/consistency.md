@@ -62,3 +62,5 @@ _"We are what we repeatedly do. Excellence, then, is not an act but a habit."_ �
 - [[Mental Rehearsal as Cognitive Architecture]] — How repetition builds neural pathways
 - [[Adaptive Patterns]] — Pattern recognition through repeated exposure
 - [[Conceptual Frameworks]] — Mental models reinforced through consistent application
+- [[The Bamboo Paradox]] — Why consistent effort precedes explosive results
+- [[Temporal Horizons and Risk]] — How time frames shape the value of consistency

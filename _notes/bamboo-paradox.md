@@ -131,4 +131,3 @@ _"Compound interest is the eighth wonder of the world. He who understands it, ea
 - [[Asymmetry of Experience]] — Why early disappointment drives abandonment
 - [[Consistency]] — Pattern repetition as infrastructure building
 - [[Mental Rehearsal as Cognitive Architecture]] — Preparing for setbacks to maintain commitment
-

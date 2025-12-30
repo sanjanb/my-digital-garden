@@ -97,4 +97,5 @@ _"The map is not the territory, but we cannot navigate without maps."_
 - [[Adaptive Patterns]] — How frameworks change while maintaining coherence
 - [[Conceptual Migration]] — Framework transfer between domains
 - [[The Paradox of Boundaries]] — How constraints shape conceptual possibilities
-- [[Programming concepts]] — Technical frameworks for organizing complexity
+- [[Programming concepts]] — Technical frameworks for organizing complexity- [[Trust Architecture]] — Structural frameworks that eliminate need for behavioral trust
+- [[Behavioral Inertia]] — How mental models resist crowd pressure

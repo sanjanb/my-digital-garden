@@ -115,4 +115,3 @@ _"The best time to plant a tree was twenty years ago. The second-best time is no
 - [[The Paradox of Boundaries]] — How time constraints shape possibility
 - [[Adaptive Patterns]] — Systems operating across multiple time scales
 - [[Asymmetry of Experience]] — How time transforms risk perception
-
