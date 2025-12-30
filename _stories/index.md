@@ -24,6 +24,7 @@ Stories are not polished narratives with clear morals. They're raw material for 
 
 {% assign story_list = site.stories | sort: "date" | reverse %}
 {% if story_list.size > 0 %}
+
 <div style="margin: 2em 0;">
 {% for story in story_list %}
   <div style="margin-bottom: 2em; padding: 1.5em; background: #f8f9fa; border-left: 3px solid #dee2e6;">
