@@ -38,6 +38,8 @@ This invisibility is both their strength and their weakness:
 
 **Weakness**: Unconscious frameworks resist examination and modification, even when they become counterproductive.
 
+The process mirrors how [[Mental Rehearsal as Cognitive Architecture]] programs neural filters—repeated patterns become automatic, operating below conscious awareness to shape what we perceive as possible.
+
 ## Framework Archaeology
 
 How do you excavate your own conceptual frameworks? Some approaches:

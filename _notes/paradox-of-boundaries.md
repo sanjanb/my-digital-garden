@@ -61,6 +61,8 @@ If constraints can enhance rather than diminish creative capacity, how should we
 - Pay attention to what emerges at the edges
 - Be prepared to modify constraints based on what the system teaches you
 
+Interestingly, [[Mental Rehearsal as Cognitive Architecture]] shows how anticipating failure states transforms them from limits into design parameters—constraints rehearsed become navigable rather than catastrophic.
+
 See [[Adaptive Patterns]] for examples of systems that use constraints as adaptation mechanisms.
 
 ---

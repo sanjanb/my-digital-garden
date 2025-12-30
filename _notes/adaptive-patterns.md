@@ -30,6 +30,8 @@ Protocols that last decades share a characteristic: they define just enough stru
 
 The most powerful [[Learning Methodologies]] follow similar patterns: establish stable foundations, then explore variations within that structure.
 
+Neural systems demonstrate this through [[Mental Rehearsal as Cognitive Architecture]]—repeated mental practice builds the same pathways as physical execution, adapting cognitive infrastructure to anticipated demands.
+
 ## Design Implications
 
 If adaptation follows discoverable patterns, we can build systems that anticipate their own need to change:
