@@ -28,7 +28,7 @@ What separates effective mental rehearsal from wishful thinking? The answer chal
 Phelps's coach Bob Bowman didn't program his athlete for success. He programmed him for **comprehensive scenario coverage**. The mental library included:
 
 - Goggle failure → stroke count navigation → victory
-- Suit malfunction → composure maintenance → completion  
+- Suit malfunction → composure maintenance → completion
 - Water intrusion → calm execution → record time
 
 By race day, Phelps had mentally executed the 200m butterfly over 500 times, including every plausible failure mode. When disaster manifested physically, the neural architecture recognized a familiar pattern and activated the pre-mapped response.
@@ -104,6 +104,6 @@ _"The future is not some place we are going, but one we are creating. The paths 
 ## Connected Investigations
 
 - [[Adaptive Patterns]] — How systems build capacity through iteration
-- [[Conceptual Frameworks]] — Mental models as reality filters  
+- [[Conceptual Frameworks]] — Mental models as reality filters
 - [[The Paradox of Boundaries]] — Constraints as design parameters
 - [[Consistency]] — Pattern reinforcement and habit formation
