@@ -155,3 +155,4 @@ Virat Kohli	An Indian cricketer cited as using visualization to make a comeback 
 Visualization	The core technique discussed, defined as the power to turn thoughts into reality by creating detailed, multi-sensory mental movies of a desired outcome. The source frames it as a secret technique used by the world's highest achievers.
 
 --- 
+
