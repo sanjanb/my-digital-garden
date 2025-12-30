@@ -88,4 +88,3 @@ _"We are not thinking machines that feel; we are feeling machines that think."_ 
 - [[Conceptual Frameworks]] — Mental models that encode asymmetric experience
 - [[Mental Rehearsal as Cognitive Architecture]] — Emotion as encoding mechanism for significance
 - [[Behavioral Inertia]] — Why collective responses resist updating
-

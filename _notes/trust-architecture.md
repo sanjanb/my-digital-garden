@@ -119,4 +119,3 @@ _"Trust, but verify."_ — Russian proverb
 - [[Adaptive Patterns]] — Modular systems that fail gracefully
 - [[Conceptual Frameworks]] — Mental models of security and trust
 - [[Asymmetry of Experience]] — Why structural trust matters more than behavioral promises
-
