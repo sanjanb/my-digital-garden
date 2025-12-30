@@ -39,6 +39,9 @@ collections:
   notes:
     output: true
     permalink: /:slug
+  stories:
+    output: true
+    permalink: /stories/:slug
 
 defaults:
   - scope:
@@ -46,6 +49,10 @@ defaults:
     values:
       layout: "default"
   - scope:
+  - scope:
+      path: "_stories/**/*.md"
+    values:
+      layout: "note"
       path: "_notes/**/*.md"
     values:
       layout: "note"
