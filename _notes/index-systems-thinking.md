@@ -7,14 +7,19 @@ tags: [index, systems, patterns]
 
 Exploring how systems work, evolve, and interact across different scales.
 
-## Key Concepts
+## Core Principles
+
+- [[Trust Architecture]] - How structural separation creates reliable systems without requiring behavioral trust
+- [[Temporal Horizons and Risk]] - How time transforms risk assessment and strategic decisions
+- [[Behavioral Inertia]] - Why crowds move as one and consistently fail: collective behavior patterns
+- [[The Asymmetry of Experience]] - Why negative experiences compound while positive ones fade
+- [[The Bamboo Paradox]] - Compound growth and the patience required for exponential results
+
+## Foundational Concepts
 
 - [[Adaptive Patterns]] - How patterns emerge and evolve in systems
 - [[Conceptual Frameworks]] - Mental models for understanding complexity
 - [[Paradox of Boundaries]] - How boundaries shape and constrain systems
-- [[Trust Architecture]] - How structural separation creates reliable systems
-- [[Temporal Horizons and Risk]] - How time transforms risk and strategy
-- [[Behavioral Inertia]] - Why crowds move as one and consistently fail
 
 ## Cross-Domain Applications
 
