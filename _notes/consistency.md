@@ -7,7 +7,7 @@ tags: [habits, patterns, practice, neural-architecture]
 
 Pattern repetition creates infrastructure. This applies equally to neural pathways, skill development, and organizational culture.
 
-The question isn't whether consistency matters—it's understanding *why* it works at the architectural level.
+The question isn't whether consistency matters—it's understanding _why_ it works at the architectural level.
 
 ## Neural Persistence
 
