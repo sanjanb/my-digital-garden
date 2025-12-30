@@ -49,6 +49,22 @@ The constraint of executable precision forces conceptual clarity in ways that na
 
 **Current Focus**: How different programming paradigms shape the kinds of solutions that become visible.
 
+## Cognitive and Behavioral Architecture
+
+Investigating how mental rehearsal, temporal perception, and collective behavior shape outcomes.
+
+Recent explorations reveal patterns in how the brain encodes experience asymmetrically ([[The Asymmetry of Experience]]), how time horizons fundamentally alter risk assessment ([[Temporal Horizons and Risk]]), and why compound growth requires patience most abandon ([[The Bamboo Paradox]]).
+
+**Current Focus**: Understanding [[Behavioral Inertia]] and why intelligent individuals make systematically poor decisions in collective contexts.
+
+## Structural Trust and System Design
+
+Exploring how architecture eliminates the need for behavioral trust.
+
+[[Trust Architecture]] examines systems where separation of concerns creates reliability independent of individual trustworthiness. The principle extends beyond finance to software, governance, and any domain requiring coordination without centralized authority.
+
+**Current Focus**: Identifying minimal viable separation patterns that maximize reliability while preserving adaptability.
+
 ## Open Questions
 
 - Is there an optimal balance between conceptual coherence and exploratory freedom?

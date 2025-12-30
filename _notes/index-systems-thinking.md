@@ -12,6 +12,9 @@ Exploring how systems work, evolve, and interact across different scales.
 - [[Adaptive Patterns]] - How patterns emerge and evolve in systems
 - [[Conceptual Frameworks]] - Mental models for understanding complexity
 - [[Paradox of Boundaries]] - How boundaries shape and constrain systems
+- [[Trust Architecture]] - How structural separation creates reliable systems
+- [[Temporal Horizons and Risk]] - How time transforms risk and strategy
+- [[Behavioral Inertia]] - Why crowds move as one and consistently fail
 
 ## Cross-Domain Applications
 

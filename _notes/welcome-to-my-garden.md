@@ -38,6 +38,14 @@ In what ways do limitations actually expand the space of possibilities? See [[Th
 
 How do insights move between fields? What gets lost and what gets gained in the process of [[Conceptual Migration]]?
 
+### Time, Memory, and Experience
+
+How do temporal horizons reshape risk? Why does [[The Asymmetry of Experience]] make pain compound while pleasure fades? What explains [[The Bamboo Paradox]]—five years of invisible growth before three months of explosive emergence?
+
+### Collective Behavior and Architecture
+
+Why does [[Behavioral Inertia]] cause crowds to move as one and consistently fail? How does [[Trust Architecture]] use structural separation to eliminate the need for behavioral trust?
+
 ## Navigation Notes
 
 The connections here are intentional but not always obvious. Some links lead to fully developed thoughts; others point toward territories that remain largely unexplored.

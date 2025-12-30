@@ -21,6 +21,9 @@ Notes on growth, learning, and sustainable practices for long-term development.
 
 - [[Conceptual Frameworks]] - Tools for thinking and problem-solving
 - [[Paradox of Boundaries]] - Understanding constraints and freedom
+- [[Mental Rehearsal as Cognitive Architecture]] - How imagination builds neural infrastructure
+- [[The Asymmetry of Experience]] - Why pain compounds while pleasure fades
+- [[The Bamboo Paradox]] - Invisible foundation-building before explosive growth
 
 ## Philosophy
 
