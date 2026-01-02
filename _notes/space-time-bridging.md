@@ -120,4 +120,3 @@ _Based on neuroscience research on visual attention, dopamine systems, and goal-
 - [[Temporal Horizons and Risk]] — How time frames transform decision-making
 - [[Consistency]] — Daily practice as the mechanism for building capacity
 - [[The Asymmetry of Experience]] — Why fear of failure drives pursuit more than promise of success
-
