@@ -106,4 +106,4 @@ _"The future is not some place we are going, but one we are creating. The paths 
 - [[Adaptive Patterns]] — How systems build capacity through iteration
 - [[Conceptual Frameworks]] — Mental models as reality filters
 - [[The Paradox of Boundaries]] — Constraints as design parameters
-- [[Consistency]] — Pattern reinforcement and habit formation
+- [[Consistency]] — Pattern reinforcement and habit formation- [[Space-Time Bridging]] — Visual practice for temporal navigation and goal connection

@@ -53,7 +53,7 @@ The constraint of executable precision forces conceptual clarity in ways that na
 
 Investigating how mental rehearsal, temporal perception, and collective behavior shape outcomes.
 
-Recent explorations reveal patterns in how the brain encodes experience asymmetrically ([[The Asymmetry of Experience]]), how time horizons fundamentally alter risk assessment ([[Temporal Horizons and Risk]]), and why compound growth requires patience most abandon ([[The Bamboo Paradox]]).
+Recent explorations reveal patterns in how the brain encodes experience asymmetrically ([[The Asymmetry of Experience]]), how time horizons fundamentally alter risk assessment ([[Temporal Horizons and Risk]]), and why compound growth requires patience most abandon ([[The Bamboo Paradox]]). [[Space-Time Bridging]] offers a practical protocol for training the nervous system to navigate between immediate tasks and long-term vision.
 
 **Current Focus**: Understanding [[Behavioral Inertia]] and why intelligent individuals make systematically poor decisions in collective contexts.
 
