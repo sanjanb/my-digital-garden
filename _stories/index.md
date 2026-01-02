@@ -71,3 +71,7 @@ _"We tell ourselves stories in order to live."_ — Joan Didion
 - [[Current Investigations]] — Active conceptual inquiries
 - [[The Threshold]] — Entry to the conceptual garden
 - [[Conceptual Frameworks]] — The patterns stories reveal
+
+## Network of Stories
+
+{% include stories_graph.html %}

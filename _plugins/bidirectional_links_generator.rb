@@ -75,6 +75,9 @@ class BidirectionalLinksGenerator < Jekyll::Generator
     end
 
     # Identify note backlinks and add them to each note
+    stories_graph_nodes = []
+    stories_graph_edges = []
+
     all_notes.each do |current_note|
       # Nodes: Jekyll
       notes_linking_to_current_note = all_notes.filter do |e|
@@ -100,9 +103,40 @@ class BidirectionalLinksGenerator < Jekyll::Generator
       end
     end
 
+    # Identify story backlinks and add them to each story
+    all_stories.each do |current_story|
+      # Nodes: Jekyll
+      stories_linking_to_current_story = all_stories.filter do |e|
+        e.url != current_story.url && e.content.include?(current_story.url)
+      end
+
+      # Nodes: Graph
+      stories_graph_nodes << {
+        id: note_id_from_note(current_story),
+        path: "#{site.baseurl}#{current_story.url}#{link_extension}",
+        label: current_story.data['title'],
+      } unless current_story.path.include?('_stories/index.html')
+
+      # Edges: Jekyll
+      current_story.data['backlinks'] = stories_linking_to_current_story
+
+      # Edges: Graph
+      stories_linking_to_current_story.each do |s|
+        stories_graph_edges << {
+          source: note_id_from_note(s),
+          target: note_id_from_note(current_story),
+        }
+      end
+    end
+
     File.write('_includes/notes_graph.json', JSON.dump({
       edges: graph_edges,
       nodes: graph_nodes,
+    }))
+
+    File.write('_includes/stories_graph.json', JSON.dump({
+      edges: stories_graph_edges,
+      nodes: stories_graph_nodes,
     }))
   end
 
