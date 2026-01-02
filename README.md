@@ -33,6 +33,7 @@ This is not a blog. There are no publication dates, no chronological archives, n
 The garden uses **bidirectional linking** to create a web of connected ideas. Click any `[[bracketed link]]` to follow a thread of thought. The **graph visualization** reveals the network structure of concepts, showing how ideas relate and cluster.
 
 Start your exploration:
+
 - **[[Welcome to My Garden]]** — The threshold and orientation
 - **[[Index: Personal Development]]** — Mental frameworks and practices
 - **[[Index: Systems Thinking]]** — Structural patterns and principles
@@ -41,6 +42,7 @@ Start your exploration:
 ### Technical Foundation
 
 Built with **Jekyll** and deployed via **GitHub Pages**, featuring:
+
 - Roam-style bidirectional linking with automatic backlinks
 - Interactive D3.js graph visualization of note connections
 - Full-text search across all content
@@ -56,4 +58,4 @@ Template foundation based on [Maxime Vaillancourt's Digital Garden](https://gith
 
 ---
 
-*"A garden is a grand teacher. It teaches patience and careful watchfulness; it teaches industry and thrift; above all it teaches entire trust."* — Gertrude Jekyll
+_"A garden is a grand teacher. It teaches patience and careful watchfulness; it teaches industry and thrift; above all it teaches entire trust."_ — Gertrude Jekyll
