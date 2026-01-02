@@ -22,6 +22,7 @@ Focus on three high-yield movement patterns with maximum carryover to real-life 
 ### 1. The Posterior Chain (The Engine)
 
 **Primary: Narrow Sumo Deadlift**
+
 - Teaches the hip hinge—critical for back health and power generation
 - Builds the entire posterior chain: glutes, hamstrings, lower back
 - Alternative: Kettlebell swings for those without barbell access
@@ -29,6 +30,7 @@ Focus on three high-yield movement patterns with maximum carryover to real-life 
 ### 2. Total Body Stabilization
 
 **Primary: Zercher Squat**
+
 - Bar held in elbow creases, forcing reflexive core stabilization
 - Safer than back squats for those with shoulder/wrist limitations
 - Goal benchmark: Double bodyweight for athletes
@@ -36,10 +38,12 @@ Focus on three high-yield movement patterns with maximum carryover to real-life 
 ### 3. Upper Body Push & Pull
 
 **Pressing: Bench Press or Dips**
+
 - Bench press: Efficient strength building with minimal volume (one session/week yields results)
 - Dips: Excellent alternative if shoulders tolerate them
 
 **Pulling: Pull-ups**
+
 - Among the best general strength exercises
 - Immense carryover to other physical activities
 - Weighted progression as strength develops
@@ -49,16 +53,19 @@ Focus on three high-yield movement patterns with maximum carryover to real-life 
 Three rules for maximum efficiency:
 
 **1. Low Quantity**
+
 - Select 3–5 exercises total
 - Do not change them frequently
 - There is no value in "muscle confusion"—master the fundamentals
 
 **2. Low Repetitions**
+
 - Stay in 3–6 rep range
 - Above 6 reps shifts toward hypertrophy (size) rather than neurological strength
 - Heavy, low-rep training builds efficiency without bulk
 
 **3. Consistency Over Variety**
+
 - Stick to the same core lifts
 - Progressive improvement on fundamentals yields better results than constant variation
 - Economy of time: 30-minute focused sessions outperform 90-minute diluted efforts
@@ -68,12 +75,15 @@ Three rules for maximum efficiency:
 A complete minimal program requiring only 3 sessions per week:
 
 **Monday: Posterior Chain**
+
 - Narrow Sumo Deadlift: 3 sets × 5 reps
 
 **Wednesday: Stabilization**
+
 - Zercher Squat: 3 sets × 5 reps
 
 **Friday: Upper Body**
+
 - Weighted Pull-ups: 3 sets × 5 reps
 - Bench Press or Dips: 3 sets × 5 reps
 
@@ -116,4 +126,3 @@ _Source: Andrew Huberman & Pavel Tsatsouline conversation on strength fundamenta
 - [[Adaptive Patterns]] — Neurological vs. structural adaptation
 - [[Temporal Horizons and Risk]] — Building reserves for long-term resilience
 - [[Move Your Body Every Day]] — Daily physical practice as foundation
-
