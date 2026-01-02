@@ -1,10 +1,10 @@
-# Sanjan's Codex 🌱
+# Sanjanz Lab 🌱
 
 A digital garden exploring the architecture of thought, behavior, and systems through interconnected philosophical notes.
 
 ## About This Garden
 
-**Sanjan's Codex** is a living collection of ideas that grow through connection and reflection. Rather than presenting finished conclusions, this space embraces the process of thinking itself—where notes evolve, concepts interweave, and understanding deepens over time.
+**Sanjanz Lab** is a living collection of ideas that grow through connection and reflection. Rather than presenting finished conclusions, this space embraces the process of thinking itself—where notes evolve, concepts interweave, and understanding deepens over time.
 
 ### What You'll Find Here
 

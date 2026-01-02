@@ -90,7 +90,7 @@ Feel free to link to any note in this garden. Everything here is published under
 **Citation format:**
 
 ```
-[Note Title], Sanjan's Codex, {{ site.url }}[note-url]
+[Note Title], Sanjanz Lab, {{ site.url }}[note-url]
 ```
 
 ---

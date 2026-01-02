@@ -7,7 +7,7 @@ Complete these steps to fully personalize your digital garden.
 ### 1. Site Configuration
 
 - [ ] Open `_config.yml`
-- [ ] Update `title` (currently "Sanjan's Codex")
+- [ ] Update `title` (currently "Sanjanz Lab")
 - [ ] Update `description`
 - [ ] Update `author` name
 - [ ] Update `url` with your actual domain
