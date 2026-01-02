@@ -11,6 +11,7 @@ Notes on growth, learning, and sustainable practices for long-term development.
 
 - [[Mental Rehearsal as Cognitive Architecture]] - How imagination builds neural infrastructure and prepares for peak performance
 - [[Space-Time Bridging]] - Visual practice for connecting present action to future goals
+- [[Stories & Lessons]] - Personal narratives grounding abstract patterns in lived experience
 
 ## Growth Principles
 

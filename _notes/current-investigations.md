@@ -7,6 +7,8 @@ tags: [meta, active, exploration]
 
 Active lines of inquiry that are currently evolving. These thoughts remain deliberately incomplete—they serve as launching points for exploration rather than final destinations.
 
+Many investigations are grounded in [[Stories & Lessons]]—specific experiences that reveal patterns worth exploring.
+
 **Browse by Domain**: [[Programming Index]] • [[Systems Thinking Index]] • [[Personal Development Index]]
 
 ## The Question of Scale

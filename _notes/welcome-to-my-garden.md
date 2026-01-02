@@ -64,3 +64,4 @@ _"We shape our tools, and thereafter they shape us."_ — Marshall McLuhan
 
 - [[Programming concepts]] — The craft of building reliable systems
 - [[Career development]] — Professional evolution as adaptive process
+- [[Stories & Lessons]] — Personal narratives grounding abstract patterns in lived experience
