@@ -46,6 +46,10 @@ How do temporal horizons reshape risk? Why does [[The Asymmetry of Experience]] 
 
 Why does [[Behavioral Inertia]] cause crowds to move as one and consistently fail? How does [[Trust Architecture]] use structural separation to eliminate the need for behavioral trust?
 
+### Physical Practice as System Design
+
+How do principles of efficiency, constraint, and reserve capacity apply to physical development? See [[Strength as Foundation]] for minimal, high-yield approaches to building capability.
+
 ## Navigation Notes
 
 The connections here are intentional but not always obvious. Some links lead to fully developed thoughts; others point toward territories that remain largely unexplored.

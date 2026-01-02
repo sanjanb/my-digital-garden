@@ -24,6 +24,7 @@ Notes on growth, learning, and sustainable practices for long-term development.
 
 ## Daily Practices
 
+- [[Strength as Foundation]] - Minimal, high-yield approach to building physical capacity
 - [[Move Your Body Every Day]] - Physical wellness and consistency
 
 ## Mental Frameworks
