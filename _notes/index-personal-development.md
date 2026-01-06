@@ -31,6 +31,7 @@ Notes on growth, learning, and sustainable practices for long-term development.
 
 ## Mental Frameworks
 
+- [[The Architecture of Discipline]] - Eight structural principles for genuine transformation
 - [[Conceptual Frameworks]] - Tools for thinking and problem-solving
 - [[Paradox of Boundaries]] - Understanding constraints and freedom
 

@@ -23,7 +23,7 @@ Initial observations suggest that certain organizational principles appear consi
 
 Investigation into why limitations often accelerate rather than impede creative development.
 
-Evidence from multiple domains suggests that carefully chosen boundaries can expand the space of meaningful action. [[The Paradox of Boundaries]] documents initial explorations.
+Evidence from multiple domains suggests that carefully chosen boundaries can expand the space of meaningful action. [[The Paradox of Boundaries]] documents initial explorations. [[The Architecture of Discipline]] examines how constraints eliminate failure modes.
 
 **Current Focus**: Developing frameworks for distinguishing productive constraints from arbitrary restrictions.
 

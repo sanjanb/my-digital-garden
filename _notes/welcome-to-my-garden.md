@@ -62,6 +62,7 @@ _"We shape our tools, and thereafter they shape us."_ — Marshall McLuhan
 
 ## Recent Traces
 
+- [[The Architecture of Discipline]] — Eight structural principles creating conditions for transformation
 - [[Programming concepts]] — The craft of building reliable systems
 - [[Career development]] — Professional evolution as adaptive process
 - [[Stories & Lessons]] — Personal narratives grounding abstract patterns in lived experience
