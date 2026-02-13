@@ -41,6 +41,10 @@ Whenever you see this post, remember:
 - Use your highest energy for your highest-stakes work.
 - Don’t get lost in daily routines and miss big opportunities.
 
+## Connections
+
+- **Architecture of Discipline**: The energy-state theory provides the "what" and "when" for your efforts, while [[architecture-of-discipline]] offers the "how" through structured systems and habits to make these principles sustainable over time.
+
 ---
 
 **Whenever you see this post, ask yourself:**
