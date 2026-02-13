@@ -20,9 +20,21 @@ This is a collection of theories and concepts that I've explored and integrated 
 - Building sustainable habits through structured systems
 - The foundation for long-term personal growth
 
-## Other Theories
+## Mental Rehearsal as Cognitive Architecture
 
-- Add more theories here as I discover them...
+- [[mental-rehearsal-architecture]]
+- Using visualization and mental practice to build cognitive frameworks
+- Preparing the mind for success through structured imagination
+
+## Interconnections
+
+These theories form a cohesive system for personal development:
+
+- **Energy State Theory** provides the strategic focus and timing for efforts.
+- **Architecture of Discipline** offers the structural habits to sustain that focus over time.
+- **Mental Rehearsal as Cognitive Architecture** enhances both by building mental resilience and clarity through visualization, ensuring that discipline and energy are directed toward well-rehearsed goals.
+
+Together, they create a feedback loop: rehearse mentally, apply disciplined energy strategically, and refine through ongoing audits.
 
 ---
 
