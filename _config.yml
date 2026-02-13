@@ -49,10 +49,10 @@ defaults:
     values:
       layout: "default"
   - scope:
-  - scope:
       path: "_stories/**/*.md"
     values:
       layout: "note"
+  - scope:
       path: "_notes/**/*.md"
     values:
       layout: "note"
