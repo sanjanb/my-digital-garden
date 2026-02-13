@@ -5,7 +5,7 @@ date: 2026-02-13
 
 # The Strategic Impact Blueprint
 
-### *Direction > Intensity. Timing > Effort.*
+### _Direction > Intensity. Timing > Effort._
 
 ---
 
@@ -13,8 +13,8 @@ date: 2026-02-13
 
 **The Theory:** Hard work on the wrong thing is just a fast way to get nowhere.
 
-* **The Check:** Am I hitting a mountain, or am I hitting the wall with the gold?
-* **The Adaptation:** Before you pick up the "axe" (start working), spend 5 minutes "knocking" on the walls. Use your high-IQ state to verify your direction.
+- **The Check:** Am I hitting a mountain, or am I hitting the wall with the gold?
+- **The Adaptation:** Before you pick up the "axe" (start working), spend 5 minutes "knocking" on the walls. Use your high-IQ state to verify your direction.
 
 ---
 
@@ -22,8 +22,8 @@ date: 2026-02-13
 
 **The Theory:** Your brain is a battery, not a constant power source.
 
-* **The Science:** Cortisol and attention peak in the morning. By afternoon, your "willpower battery" is low.
-* **The Adaptation:** Your **P1 (Priority One)** task must be dead or dying by 11:00 AM. If you haven't touched your most important goal by noon, you have lost the day's highest potential.
+- **The Science:** Cortisol and attention peak in the morning. By afternoon, your "willpower battery" is low.
+- **The Adaptation:** Your **P1 (Priority One)** task must be dead or dying by 11:00 AM. If you haven't touched your most important goal by noon, you have lost the day's highest potential.
 
 ---
 
@@ -31,14 +31,14 @@ date: 2026-02-13
 
 **The Theory:** A superior design (Elisha Gray) loses to a fast execution (Graham Bell).
 
-* **The Mantra:** *Speed of Filing beats Perfection of Design.*
-* **The Adaptation:** Stop waiting for "perfect." Being 34 lines of ink ahead in the "Daily Docket Book" of life is the difference between a billion-dollar empire and being a footnote in history.
+- **The Mantra:** _Speed of Filing beats Perfection of Design._
+- **The Adaptation:** Stop waiting for "perfect." Being 34 lines of ink ahead in the "Daily Docket Book" of life is the difference between a billion-dollar empire and being a footnote in history.
 
 ---
 
 ### 4. The Daily Execution Algorithm
 
-*Use this daily checklist to trigger the theory into action:*
+_Use this daily checklist to trigger the theory into action:_
 
 1. **Rise at 6 AM:** Reclaim the quiet hours.
 2. **The Brain Dump:** List everything weighing on your mind.
@@ -51,8 +51,8 @@ date: 2026-02-13
 
 **The Warning:** Don't be like Urbain Le Verrier chasing "Vulcan."
 
-* **The Trap:** Chasing a goal that no longer exists because you are using outdated "mathematics" or old habits.
-* **The Adaptation:** If the "Mercury" in your life is wobbling, don't just work harder. Question your tools. Is your current "RO Shop" preventing you from seeing your "Gold Pot"?
+- **The Trap:** Chasing a goal that no longer exists because you are using outdated "mathematics" or old habits.
+- **The Adaptation:** If the "Mercury" in your life is wobbling, don't just work harder. Question your tools. Is your current "RO Shop" preventing you from seeing your "Gold Pot"?
 
 ---
 
@@ -66,7 +66,7 @@ date: 2026-02-13
 
 1. **Digital Anchor:** Save this as a pinned note on your phone or your desktop wallpaper.
 2. **The Morning Trigger:** Read the "Daily Execution Algorithm" section every morning at 6:00 AM while having coffee.
-3. **The Weekly Audit:** Every Sunday, look at the "Anti-Pattern" section and ask: *"Am I chasing any Ghost Planets this week?"*
+3. **The Weekly Audit:** Every Sunday, look at the "Anti-Pattern" section and ask: _"Am I chasing any Ghost Planets this week?"_
 
 ## Connections
 
