@@ -3,7 +3,7 @@ title: "Weekend Transformation Ritual"
 date: 2026-02-16
 ---
 
-## **YOUR 2026 TRANSFORMATION WEEKEND**
+## **YOUR 20## TRANSFORMATION WEEKEND**
 
 _One weekend to design a year you won't recognize by December_
 
