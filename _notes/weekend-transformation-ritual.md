@@ -77,7 +77,7 @@ _Design environments where discipline is effortless:_
 → Reading goal? Book on pillow each morning.  
 → Saving goal? Auto-transfer $X before payday hits your account.  
 → Connection goal? Monday 9am calendar alert: "Text 1 person who inspires you."  
-_Make the right action the path of least resistance._
+_Make the right action the path of least resistance.[it is easier now, ask AI to give actions to make it easy]_
 
 ---
 
