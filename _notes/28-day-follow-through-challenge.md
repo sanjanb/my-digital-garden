@@ -72,12 +72,33 @@ _Non-negotiable. No exceptions. Takes <20 mins._
 
 _(Daily Baseline continues every day)_
 
-| WEEK                 | THEME                       | KEY ACTIONS                                                                                                                                                                                      |
-| -------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1**<br>FOUNDATION  | Build follow-through muscle | • Remove #1 distraction for 7 days<br>• Say "no" to 1 request<br>• Do 1 slightly scary thing<br>• Journal 5 min (brain dump)                                                                     |
-| **2**<br>DISCIPLINE  | Push through resistance     | • Phone-free → **90 min/day**<br>• Finish 1 backlog item (<90 min)<br>• Have 1 difficult conversation<br>• Learn 30 min in your field                                                            |
-| **3**<br>MOMENTUM    | See your shift              | • Cut 1 energy vampire (app/person/habit)<br>• Create/share something meaningful<br>• List **3 concrete wins** from Weeks 1-2<br>• Plan next 28 days                                             |
-| **4**<br>INTEGRATION | Lock your new normal        | • Finish ALL pending commitments<br>• Review 28 days: _"What changed?"_<br>• Name your **#1 sticky habit**<br>• Schedule next challenge _before Day 28_<br>• Tell 1 person what you accomplished |
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">WEEK</th>
+    <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">THEME</th>
+    <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">KEY ACTIONS</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;"><strong>1</strong><br>FOUNDATION</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Build follow-through muscle</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">• Remove #1 distraction for 7 days<br>• Say "no" to 1 request<br>• Do 1 slightly scary thing<br>• Journal 5 min (brain dump)</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;"><strong>2</strong><br>DISCIPLINE</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Push through resistance</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">• Phone-free → <strong>90 min/day</strong><br>• Finish 1 backlog item (<90 min)<br>• Have 1 difficult conversation<br>• Learn 30 min in your field</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;"><strong>3</strong><br>MOMENTUM</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">See your shift</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">• Cut 1 energy vampire (app/person/habit)<br>• Create/share something meaningful<br>• List <strong>3 concrete wins</strong> from Weeks 1-2<br>• Plan next 28 days</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;"><strong>4</strong><br>INTEGRATION</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Lock your new normal</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">• Finish ALL pending commitments<br>• Review 28 days: <em>"What changed?"</em><br>• Name your <strong>#1 sticky habit</strong><br>• Schedule next challenge <em>before Day 28</em><br>• Tell 1 person what you accomplished</td>
+  </tr>
+</table>
 
 ---
 
