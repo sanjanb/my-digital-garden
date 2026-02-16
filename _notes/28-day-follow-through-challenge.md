@@ -16,17 +16,55 @@ _Rebuild your self-trust. One finished thing at a time._
 
 ## YOUR DAILY BASELINE (ALL 28 DAYS)
 
-_Non-negotiable. No exceptions. Takes <20 mins._  
-| | Action | Today's Proof |
-|---|---|---|
-| | **Sleep 6+ hours** | Bed: **_ Wake: _** |
-| | **Phone-free 60+ min** | (Morning/Evening) |
-| | **Write 1 win** | _"Today I **\_\_\_\_**"_ |
-| | **Zero major lies** | (To self or others) |
-| | **Move 10+ min** | Walk/stretch/dance |
-| | **1 intentional decision** | _"I chose **\_\_\_\_**"_ |
-| | **Finished yesterday's commitment?** | Yes / No |
-| | **Mood (1-10)** | \_\_\_ |
+_Non-negotiable. No exceptions. Takes <20 mins._
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;"></th>
+    <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">Action</th>
+    <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">Today's Proof</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;"></td>
+    <td style="border: 1px solid #ddd; padding: 8px;"><strong>Sleep 6+ hours</strong></td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Bed: ___ Wake: ___</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;"></td>
+    <td style="border: 1px solid #ddd; padding: 8px;"><strong>Phone-free 60+ min</strong></td>
+    <td style="border: 1px solid #ddd; padding: 8px;">(Morning/Evening)</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;"></td>
+    <td style="border: 1px solid #ddd; padding: 8px;"><strong>Write 1 win</strong></td>
+    <td style="border: 1px solid #ddd; padding: 8px;">"Today I ________"</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;"></td>
+    <td style="border: 1px solid #ddd; padding: 8px;"><strong>Zero major lies</strong></td>
+    <td style="border: 1px solid #ddd; padding: 8px;">(To self or others)</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;"></td>
+    <td style="border: 1px solid #ddd; padding: 8px;"><strong>Move 10+ min</strong></td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Walk/stretch/dance</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;"></td>
+    <td style="border: 1px solid #ddd; padding: 8px;"><strong>1 intentional decision</strong></td>
+    <td style="border: 1px solid #ddd; padding: 8px;">"I chose ________"</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;"></td>
+    <td style="border: 1px solid #ddd; padding: 8px;"><strong>Finished yesterday's commitment?</strong></td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Yes / No</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;"></td>
+    <td style="border: 1px solid #ddd; padding: 8px;"><strong>Mood (1-10)</strong></td>
+    <td style="border: 1px solid #ddd; padding: 8px;">___</td>
+  </tr>
+</table>
 
 ---
 
