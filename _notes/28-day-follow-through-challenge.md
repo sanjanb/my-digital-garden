@@ -17,12 +17,12 @@ _Rebuild your self-trust. One finished thing at a time._
 ## YOUR DAILY BASELINE (ALL 28 DAYS)
 
 _Non-negotiable. No exceptions. Takes <20 mins._  
-|  | Action | Today's Proof |
+| | Action | Today's Proof |
 |---|---|---|
-|  | **Sleep 6+ hours** | Bed: **_ Wake: _** |
-|  | **Phone-free 60+ min** | (Morning/Evening) |
-|  | **Write 1 win** | _"Today I **\_\_\_\_**"_ |
-| ☐ | **Zero major lies** | (To self or others) |
+| | **Sleep 6+ hours** | Bed: **_ Wake: _** |
+| | **Phone-free 60+ min** | (Morning/Evening) |
+| | **Write 1 win** | _"Today I **\_\_\_\_**"_ |
+|  | **Zero major lies** | (To self or others) |
 | ☐ | **Move 10+ min** | Walk/stretch/dance |
 | ☐ | **1 intentional decision** | _"I chose **\_\_\_\_**"_ |
 | ☐ | **Finished yesterday’s commitment?** | Yes / No |
