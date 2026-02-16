@@ -34,7 +34,7 @@ _Clarity beats volume._
 
 #### **SATURDAY AFTERNOON | The Architecture (90 min)**
 
-_Time-block your non-negotiables FIRST:_  
+_Time-block your non-negotiables FIRST:_
 
 <table>
   <tr>
