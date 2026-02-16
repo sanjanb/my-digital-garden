@@ -36,34 +36,34 @@ _Clarity beats volume._
 
 _Time-block your non-negotiables FIRST:_
 
-<table>
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <th>Category</th>
-    <th>Weekly Commitment</th>
+    <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">Category</th>
+    <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">Weekly Commitment</th>
   </tr>
   <tr>
-    <td>Sleep</td>
-    <td>7–8 hrs/night (block bedtime)</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Sleep</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">7–8 hrs/night (block bedtime)</td>
   </tr>
   <tr>
-    <td>Movement</td>
-    <td>30 min × 4 days (schedule like meetings)</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Movement</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">30 min × 4 days (schedule like meetings)</td>
   </tr>
   <tr>
-    <td>Nourishment</td>
-    <td>5+ real meals/week (prep Sunday)</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Nourishment</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">5+ real meals/week (prep Sunday)</td>
   </tr>
   <tr>
-    <td><strong>Goal 1</strong></td>
-    <td>5 hrs (e.g., Tue/Thu 7–9pm)</td>
+    <td style="border: 1px solid #ddd; padding: 8px;"><strong>Goal 1</strong></td>
+    <td style="border: 1px solid #ddd; padding: 8px;">5 hrs (e.g., Tue/Thu 7–9pm)</td>
   </tr>
   <tr>
-    <td><strong>Goal 2</strong></td>
-    <td>5 hrs (e.g., Sat AM blocks)</td>
+    <td style="border: 1px solid #ddd; padding: 8px;"><strong>Goal 2</strong></td>
+    <td style="border: 1px solid #ddd; padding: 8px;">5 hrs (e.g., Sat AM blocks)</td>
   </tr>
   <tr>
-    <td><strong>Goal 3</strong></td>
-    <td>3 hrs (e.g., 30 min daily)</td>
+    <td style="border: 1px solid #ddd; padding: 8px;"><strong>Goal 3</strong></td>
+    <td style="border: 1px solid #ddd; padding: 8px;">3 hrs (e.g., 30 min daily)</td>
   </tr>
 </table>
 
