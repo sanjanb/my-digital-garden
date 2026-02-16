@@ -28,6 +28,12 @@ These rituals form a foundation for daily well-being:
 
 Together, they create a balanced routine that supports both physical and mental development.
 
+## 28-Day Follow-Through Challenge
+
+- [[28-day-follow-through-challenge]]
+- A 28-day program to rebuild self-trust through consistent follow-through
+- Daily baseline practices and weekly focused actions
+
 ## Weekend Transformation Ritual
 
 - [[weekend-transformation-ritual]]
