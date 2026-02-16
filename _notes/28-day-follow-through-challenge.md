@@ -58,14 +58,14 @@ _(Daily Baseline continues every day)_
 1. **Write your "why"** at the top of this page
 2. **Set phone alarm**: "Daily Baseline - 8PM"
 3. **Text one person**: _"I'm doing the 28-Day Challenge. Ask me on Day 28."_
-   4️⃣ **Do TODAY’S Baseline** before bed
+4. **Do TODAY'S Baseline** before bed
 
-> ✨ _"Discipline isn’t suffering. It’s the quiet pride of keeping promises to yourself."_  
+> _"Discipline isn't suffering. It's the quiet pride of keeping promises to yourself."_
 > **Today is Day 1. Your future self is waiting.**
 
 ---
 
-_© [Your Brand] | Print this page. Tape it to your mirror. Own your 28 days._  
+_ [Your Brand] | Print this page. Tape it to your mirror. Own your 28 days._  
 _#FollowThroughChallenge | Share your Day 7 win → @yourhandle_
 
 _(Page designed for single-sheet printing: Fits standard letter/A4. Use dark mode-friendly colors for digital display.)_
