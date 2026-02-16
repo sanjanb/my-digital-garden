@@ -43,9 +43,9 @@ _(Daily Baseline continues every day)_
 
 ---
 
-## 💡 CRITICAL TRUTHS
+## CRITICAL TRUTHS
 
-> 🌟 _"You won’t feel like doing this every day. Do it anyway."_  
+> _"You won't feel like doing this every day. Do it anyway."_
 > 🌟 **Day 10**: Resistance peaks → _This is where quitters quit. You stay._  
 > 🌟 **Day 21**: The shift hits → _You’ll feel lighter, clearer, capable._  
 > 🌟 **Miss 2 days straight?** Reset the counter. Not punishment—_integrity_.  
