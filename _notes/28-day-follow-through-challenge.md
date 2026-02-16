@@ -25,12 +25,12 @@ _Non-negotiable. No exceptions. Takes <20 mins._
 | | **Zero major lies** | (To self or others) |
 | | **Move 10+ min** | Walk/stretch/dance |
 | | **1 intentional decision** | _"I chose **\_\_\_\_**"_ |
-|  | **Finished yesterday's commitment?** | Yes / No |
+| | **Finished yesterday's commitment?** | Yes / No |
 | | **Mood (1-10)** | \_\_\_ |
 
 ---
 
-## 🗓️ WEEKLY FOCUS
+## WEEKLY FOCUS
 
 _(Daily Baseline continues every day)_
 
