@@ -55,10 +55,10 @@ _(Daily Baseline continues every day)_
 
 ## START TODAY (NOT "MONDAY")
 
-1. **Write your "why"** at the top of this page  
-2. **Set phone alarm**: "Daily Baseline - 8PM"  
+1. **Write your "why"** at the top of this page
+2. **Set phone alarm**: "Daily Baseline - 8PM"
 3. **Text one person**: _"I'm doing the 28-Day Challenge. Ask me on Day 28."_
-4️⃣ **Do TODAY’S Baseline** before bed
+   4️⃣ **Do TODAY’S Baseline** before bed
 
 > ✨ _"Discipline isn’t suffering. It’s the quiet pride of keeping promises to yourself."_  
 > **Today is Day 1. Your future self is waiting.**
