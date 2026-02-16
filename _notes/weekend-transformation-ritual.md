@@ -112,15 +112,5 @@ This weekend isn't about _trying harder_—it's about **building the structure w
 → **Tell one person your plan** (accountability = 42% higher success rate).  
 → **Start before you feel "ready."** Ready is a myth manufactured by fear.
 
-_2026 is already unfolding. Design it—or drift through it._
+_20## is already unfolding. Design it—or drift through it._
 
----
-
-### ✦ SINGLE-PAGE TIPS ✦
-
-- **Font**: Use a clean sans-serif (e.g., Inter, Helvetica) at 10–11pt
-- **Layout**: Two-column format saves space while keeping scannable
-- **Print**: Fits standard letter/A4 with 0.75" margins
-- **Digital**: Save as PDF—set phone wallpaper to "3 Goals" section
-
-_Adapted from mindset frameworks for intentional living. Own your system—own your year._
