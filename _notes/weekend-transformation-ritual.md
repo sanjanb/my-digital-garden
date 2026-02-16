@@ -35,14 +35,38 @@ _Clarity beats volume._
 #### **SATURDAY AFTERNOON | The Architecture (90 min)**
 
 _Time-block your non-negotiables FIRST:_  
-| Category | Weekly Commitment |  
-|----------|-------------------|  
-| Sleep | 7–8 hrs/night (block bedtime) |  
-| Movement | 30 min × 4 days (schedule like meetings) |  
-| Nourishment | 5+ real meals/week (prep Sunday) |  
-| **Goal 1** | 5 hrs (e.g., Tue/Thu 7–9pm) |  
-| **Goal 2** | 5 hrs (e.g., Sat AM blocks) |  
-| **Goal 3** | 3 hrs (e.g., 30 min daily) |  
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Weekly Commitment</th>
+  </tr>
+  <tr>
+    <td>Sleep</td>
+    <td>7–8 hrs/night (block bedtime)</td>
+  </tr>
+  <tr>
+    <td>Movement</td>
+    <td>30 min × 4 days (schedule like meetings)</td>
+  </tr>
+  <tr>
+    <td>Nourishment</td>
+    <td>5+ real meals/week (prep Sunday)</td>
+  </tr>
+  <tr>
+    <td><strong>Goal 1</strong></td>
+    <td>5 hrs (e.g., Tue/Thu 7–9pm)</td>
+  </tr>
+  <tr>
+    <td><strong>Goal 2</strong></td>
+    <td>5 hrs (e.g., Sat AM blocks)</td>
+  </tr>
+  <tr>
+    <td><strong>Goal 3</strong></td>
+    <td>3 hrs (e.g., 30 min daily)</td>
+  </tr>
+</table>
+
 → _You have 168 hrs/week. Protecting 25 hrs for growth leaves 143 for life. Stop trading priorities for urgency._
 
 ---
