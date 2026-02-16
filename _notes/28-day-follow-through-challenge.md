@@ -124,9 +124,4 @@ _(Daily Baseline continues every day)_
 
 ---
 
-_ [Your Brand] | Print this page. Tape it to your mirror. Own your 28 days._  
-_#FollowThroughChallenge | Share your Day 7 win → @yourhandle_
-
-_(Page designed for single-sheet printing: Fits standard letter/A4. Use dark mode-friendly colors for digital display.)_
-
 [View the related Instagram post](https://www.instagram.com/p/DUNyEIgEisy/?img_index=1)
