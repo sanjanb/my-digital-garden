@@ -3,25 +3,25 @@ title: "28-Day Follow-Through Challenge"
 date: 2026-02-16
 ---
 
-# 🌱 THE 28-DAY FOLLOW-THROUGH CHALLENGE
+# THE 28-DAY FOLLOW-THROUGH CHALLENGE
 
 _Rebuild your self-trust. One finished thing at a time._
 
-> 🔑 **Before Day 1**:  
+> **Before Day 1**:  
 > _"How many things did I **finish** last month? (Not start. FINISH.)"_  
 > If ≤2: Write why you quit before → _"I stopped because **\_\_\_\_**"_  
 > _(Keep this visible. This is your anchor.)_
 
 ---
 
-## 📌 YOUR DAILY BASELINE (ALL 28 DAYS)
+## YOUR DAILY BASELINE (ALL 28 DAYS)
 
 _Non-negotiable. No exceptions. Takes <20 mins._  
-| ✅ | Action | Today’s Proof |
+|  | Action | Today's Proof |
 |---|---|---|
-| ☐ | **Sleep 6+ hours** | Bed: **_ Wake: _** |
-| ☐ | **Phone-free 60+ min** | (Morning/Evening) |
-| ☐ | **Write 1 win** | _"Today I **\_\_\_\_**"_ |
+|  | **Sleep 6+ hours** | Bed: **_ Wake: _** |
+|  | **Phone-free 60+ min** | (Morning/Evening) |
+|  | **Write 1 win** | _"Today I **\_\_\_\_**"_ |
 | ☐ | **Zero major lies** | (To self or others) |
 | ☐ | **Move 10+ min** | Walk/stretch/dance |
 | ☐ | **1 intentional decision** | _"I chose **\_\_\_\_**"_ |
